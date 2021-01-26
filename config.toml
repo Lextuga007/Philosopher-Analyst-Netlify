@@ -45,8 +45,8 @@ enableEmoji = true
   
   # basic font options: sans-serif or serif
   # for more http://tachyons.io/docs/typography/font-family/
-  textFontFamily = "sans-serif"
-  headingFontFamily = "sans-serif"
+  textFontFamily = "Bitter"
+  headingFontFamily = "Metropolis"
   # alternatively, use a built-in font-family
   # serif options: Fraunces / EB Garamond / Bitter
   # sans-serif options: Commissioner / Alegreya Sans / Metropolis
@@ -56,7 +56,7 @@ enableEmoji = true
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
   #         poppy / sky / violet / water
-  theme = "sky"
+  theme = "violet"
   
   # or, leave theme empty & make your own palette
   # basic color options: use only color names as shown in the
