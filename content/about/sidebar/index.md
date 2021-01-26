@@ -1,7 +1,7 @@
 ---
 ## Configure sidebar content in narrow column
-author: "Emily Cooper"
 role: "Social media strategy @ Savoir"
+author: "Zoë Turner"
 avatar: avatar.jpg
 avatar_shape: rounded # circle, square, rounded
 show_social: true
@@ -11,12 +11,11 @@ audio_link:
   url: audio.m4a
 link_list_label: "Interests" # bookmarks, elsewhere, etc.
 link_list:
-- name: Paris
-  url: https://en.wikipedia.org/wiki/Paris
-- name: Pastries
-  url: https://en.wikipedia.org/wiki/Pastry
-- name: People
-  url: https://en.wikipedia.org/wiki/People
+- name: Philosophy
+  url: https://en.wikipedia.org/wiki/Philosophy
+- name: Analysis
+  url: https://en.wikipedia.org/wiki/Analysis
+
 ---
 
 ** index doesn't contain a body, just front matter above.
