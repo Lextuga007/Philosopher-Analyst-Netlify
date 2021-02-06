@@ -25,8 +25,14 @@ links:
   url: https://github.com/nhs-r-community/intro_r
 ---
 
-<iframe src="https://lextuga007.github.io/Presentations/nhsr-conference-2020/index.html#1" width="900" height="300" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe> <script>fitvids('.shareagain', {players: 'iframe'});</script>
+Part 1: some examples of the use of R and how to set up R Studio
 
-<iframe src="https://lextuga007.github.io/intro_r/02-workshop_projects.html#1" width="900" height="300" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe> <script>fitvids('.shareagain', {players: 'iframe'});</script>
+<iframe src="https://lextuga007.github.io/intro_r/01-workshop_intro.html#1" width="1000" height="400" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe> <script>fitvids('.shareagain', {players: 'iframe'});</script>
 
-<iframe src="https://lextuga007.github.io/intro_r/03-workshop_import_data.html#1" width="900" height="300" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe> <script>fitvids('.shareagain', {players: 'iframe'});</script>
+Part 2: how and why to use projects in R Studio
+
+<iframe src="https://lextuga007.github.io/intro_r/02-workshop_projects.html#1" width="1000" height="400" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe> <script>fitvids('.shareagain', {players: 'iframe'});</script>
+
+Part 3: how to use the import wizard in R Studio and try importing example Excel spreadsheets 
+
+<iframe src="https://lextuga007.github.io/intro_r/03-workshop_import_data.html#1" width="1000" height="400" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe> <script>fitvids('.shareagain', {players: 'iframe'});</script>
