@@ -2,9 +2,6 @@ social:
 - icon: facebook-square
   icon_pack: fab
   link: https://twitter.com/Letxuga007
-- icon: instagram
-  icon_pack: fab
-  link: https://twitter.com/Letxuga007
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Letxuga007
@@ -13,7 +10,7 @@ social:
   link: https://github.com/Letxuga007
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/zoë-turner/
+  link: https://uk.linkedin.com/in/zo%C3%AB-turner-9bba4840
 - icon: rss
   icon_pack: fas
   link: /blog/index.xml
