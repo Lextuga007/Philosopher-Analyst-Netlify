@@ -25,7 +25,7 @@ links:
 
 Part 1: some examples of the use of R and how to set up R Studio
 
-<iframe src="https://lextuga007.github.io/intro_r/01-workshop_intro.html#1" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe> <script>fitvids('.shareagain', {players: 'iframe'});</script>
+<iframe src="https://lextuga007.github.io/intro_r/01-workshop_intro.html#1" loading="lazy" allowfullscreen></iframe> <script>fitvids('.shareagain', {players: 'iframe'});</script>
 
 Part 2: how and why to use projects in R Studio
 
