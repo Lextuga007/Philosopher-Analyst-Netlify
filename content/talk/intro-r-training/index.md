@@ -11,7 +11,7 @@ author: "Zoë Turner"
 location: "UK, online"
 draft: false
 # layout options: single, single-sidebar
-layout: single
+layout: single-sidebar
 categories:
 - workshop
 links:
@@ -31,7 +31,7 @@ Part 1: some examples of the use of R and how to set up R Studio
 
 Part 2: how and why to use projects in R Studio
 
-<iframe src="https://lextuga007.github.io/intro_r/02-workshop_projects.html#1" width="1000" height="400" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe> <script>fitvids('.shareagain', {players: 'iframe'});</script>
+<iframe src="https://lextuga007.github.io/intro_r/02-workshop_projects.html#1" width="1600" height="900" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe> <script>fitvids('.shareagain', {players: 'iframe'});</script>
 
 Part 3: how to use the import wizard in R Studio and try importing example Excel spreadsheets 
 
