@@ -11,4 +11,4 @@ I work as a Senior Information Analyst at Nottinghamshire Healthcare NHS Foundat
 
 I'm a Fellow of the NHS-R Community and I am the Non-Exec Director at AphA (Assoc Professional Healthcare Analysts). NHS colleagues can use Hexitime
 
-I have a particular interest in Ethics having studied Philosophy and some of my thoughts on this, along with technical blogs, can be found on my distill blog site https://lextuga007.github.io/PhilosopherAnalyst/
+I have a particular interest in Ethics having studied Philosophy and some of my thoughts on this, along with technical blogs, can be found on my distill blog [site](https://lextuga007.github.io/PhilosopherAnalyst/)

@@ -1,20 +1,21 @@
 ---
 ## Configure sidebar content in narrow column
-role: "Social media strategy @ Savoir"
+role: "Senior Information Analyst (with philosophical tendencies)"
 author: "Zoë Turner"
 avatar: avatar.jpg
 avatar_shape: rounded # circle, square, rounded
 show_social: true
-show_audio_link: true
+show_audio_link: false
 audio_link: 
 - name: How to say my name
   url: audio.m4a
 link_list_label: "Interests" # bookmarks, elsewhere, etc.
 link_list:
 - name: Philosophy
-  url: https://en.wikipedia.org/wiki/Philosophy
 - name: Analysis
-  url: https://en.wikipedia.org/wiki/Analysis
+- name: R
+  url: https://rstudio.com/
+- name: SQL
 
 ---
 
