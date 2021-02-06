@@ -17,17 +17,17 @@ categories:
 links:
 - icon: github
   icon_pack: fab
-  name: feature-branch
+  name: feature-branch-repo
   url: https://github.com/Lextuga007/intro_r/tree/feature_conversion
 - icon: github
   icon_pack: fab
-  name: original-code
+  name: original-presentation-repo
   url: https://github.com/nhs-r-community/intro_r
 ---
 
 Part 1: some examples of the use of R and how to set up R Studio
 
-<iframe src="https://lextuga007.github.io/intro_r/01-workshop_intro.html#1" width="1000" height="400" style="border:2px solid currentColor;" loading="lazy"></iframe> <script>fitvids('.shareagain', {players: 'iframe'});</script>
+<iframe src="https://lextuga007.github.io/intro_r/01-workshop_intro.html#1" width="1600" height="900" style="border:2px solid currentColor;" loading="lazy"></iframe> <script>fitvids('.shareagain', {players: 'iframe'});</script>
 
 Part 2: how and why to use projects in R Studio
 

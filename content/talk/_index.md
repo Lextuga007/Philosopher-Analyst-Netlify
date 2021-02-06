@@ -1,5 +1,5 @@
 ---
-title: Talks that Last
+title: Utterances
 description: |
   These are my talks, workshops, and other events
 show_post_thumbnail: true
@@ -8,15 +8,13 @@ show_author_byline: true
 show_post_date: true
 show_post_time: true
 # for listing page layout
-layout: list # list, list-sidebar
+layout: list-sidebar # list, list-sidebar
 
 # for list-sidebar layout
 sidebar: 
   title: Verbal utterances
   description: |
-    This is a list for your talks, workshops, or 
-    other events with a time, date, and place. 
-    Even this sidebar offers a ton of customizations.
+    My talks, workshops, and other events 
     
     Check out the _index.md file in the /talk folder 
     to edit this content. 
