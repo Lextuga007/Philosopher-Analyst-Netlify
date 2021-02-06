@@ -25,4 +25,4 @@ links:
   url: https://github.com/nhs-r-community/intro_r
 ---
 
-<iframe src=""https://lextuga007.github.io/Presentations/nhsr-conference-2020/index.html#1"" width="1600" height="900" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe> <script>fitvids('.shareagain', {players: 'iframe'});</script>
+<iframe src="https://lextuga007.github.io/Presentations/nhsr-conference-2020/index.html#1" width="1600" height="900" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe> <script>fitvids('.shareagain', {players: 'iframe'});</script>
