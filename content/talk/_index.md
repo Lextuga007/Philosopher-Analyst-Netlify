@@ -16,12 +16,10 @@ sidebar:
   description: |
     My talks, workshops, and other events 
     
-    Check out the _index.md file in the /talk folder 
-    to edit this content. 
   author: "Zoë Turner"
   text_link_label: Subscribe via RSS
   text_link_url: /talk/index.xml
-  show_sidebar_adunit: false # show ad container
+  show_sidebar_adunit: true # show ad container
 
 # set up common front matter for all pages inside blog/
 cascade:
