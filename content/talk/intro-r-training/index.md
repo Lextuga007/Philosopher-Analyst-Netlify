@@ -25,12 +25,12 @@ links:
 
 Part 1: some examples of the use of R and how to set up R Studio
 
-<iframe src="https://lextuga007.github.io/intro_r/01-workshop_intro.html#1" width="1000" height="300" loading="lazy" allowfullscreen></iframe> <script>fitvids('.shareagain', {players: 'iframe'});</script>
+<iframe src="https://lextuga007.github.io/intro_r/01-workshop_intro.html#1" width="800" height="300" loading="lazy" allowfullscreen></iframe> <script>fitvids('.shareagain', {players: 'iframe'});</script>
 
 Part 2: how and why to use projects in R Studio
 
-<iframe src="https://lextuga007.github.io/intro_r/02-workshop_projects.html#1" width="1000" height="300" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe> <script>fitvids('.shareagain', {players: 'iframe'});</script>
+<iframe src="https://lextuga007.github.io/intro_r/02-workshop_projects.html#1" width="800" height="300" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe> <script>fitvids('.shareagain', {players: 'iframe'});</script>
 
 Part 3: how to use the import wizard in R Studio and try importing example Excel spreadsheets 
 
-<iframe src="https://lextuga007.github.io/intro_r/03-workshop_import_data.html#1" width="1000" height="300" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe> <script>fitvids('.shareagain', {players: 'iframe'});</script>
+<iframe src="https://lextuga007.github.io/intro_r/03-workshop_import_data.html#1" width="800" height="300" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe> <script>fitvids('.shareagain', {players: 'iframe'});</script>

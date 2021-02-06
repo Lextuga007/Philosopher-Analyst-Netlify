@@ -19,7 +19,7 @@ sidebar:
   author: "Zoë Turner"
   text_link_label: Subscribe via RSS
   text_link_url: /talk/index.xml
-  show_sidebar_adunit: true # show ad container
+  show_sidebar_adunit: false # show ad container
 
 # set up common front matter for all pages inside blog/
 cascade:
