@@ -1,7 +1,12 @@
 ---
-subtitle: "Social media strategy @ Savoir"
+subtitle: "Philosopher Analyst"
 title: "Zoë Turner"
-description: "Not all themes are created equal. With Blogophonic we set out to create a clean theme with the right features for a serious blog. We also wanted Blogophonic to be a pleasure to modify, so we built it with Tachyons, CSS Grid and packed it full of configurable options."
+description: "I work as a Senior Information Analyst at Nottinghamshire Healthcare NHS Foundation Trust working with both R and SQL. 
+
+I'm a Fellow of the NHS-R Community and I am the Non-Exec Director at AphA (Assoc Professional Healthcare Analysts). NHS colleagues can use Hexitime
+
+I have a particular interest in Ethics having studied Philosophy and some of my thoughts on this, along with technical blogs, can be found on my distill blog site https://lextuga007.github.io/PhilosopherAnalyst/"
+
 date: 2019-02-18T12:27:33-06:00
 images:
   - img/revoir.jpg
