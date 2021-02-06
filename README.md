@@ -16,7 +16,7 @@ A modern, beautiful, and easily configurable blog for Hugo that includes a dedic
 
 1. **Blogophonic is thoughtfully crafted** with features a blog _should have_: multiple layouts - including one with a sidebar; custom sidebar text with a sticky ad container; option to hide byline, dateline, and thumbnail images.
 
-2. **Styled with Tachyons** - A design system for todays modern, generated websites. Avoid complex cascades and unintended side effects while taking advantage of Tachyons community library of components.
+2. **Styled with Tachyons** - A design system for today's modern, generated websites. Avoid complex cascades and unintended side effects while taking advantage of Tachyons community library of components.
 
 3. **Forms Built-in** - Collect inquiries fast and easy with a contact form powered by Formspree ... you don't need a server or any programming knowledge. Just configure the form page and submit once to set it up.
 
