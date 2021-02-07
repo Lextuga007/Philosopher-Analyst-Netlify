@@ -17,8 +17,6 @@ sidebar:
     At some point I will be using this as my main blog site, until then 
     I've written a few blogs on my [distill/GitHub site](https://lextuga007.github.io/PhilosopherAnalyst/) and on the [NHS-R Community site](https://nhsrcommunity.com/blog/author/z-turner/)
     
-    Check out the _index.md file in the /blog folder 
-    to edit this content. 
   author: "Zoë Turner"
   text_link_label: Subscribe via RSS
   text_link_url: /index.xml
