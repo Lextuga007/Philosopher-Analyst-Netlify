@@ -21,7 +21,7 @@ Some VPNs (Virtual Private Networks) block access to RStudio Cloud or you may wi
 
 We will be using the packages tidyverse and rmarkdown, and whilst these packages are all available through CRAN and should be allowed by most organisations, if you have strict restrictions on what can be installed please have these approved or it may be better to use RStudio Cloud for the training.
 
-### The Introduction to R and R Studio course 
+## The Introduction to R and R Studio course 
 
 Slides can be found [here](https://philosopher-analyst.netlify.app/talk/intro-r-training/).
 

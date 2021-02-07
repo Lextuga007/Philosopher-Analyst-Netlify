@@ -17,9 +17,10 @@ cascade:
   layout: single-series 
   sidebar:
     title: "Bits and bobs"
-    description: |
     author: Zoë Turner
-      Bits and bobs, or paraphernalia, this is my collection of things I'm not too sure where it would go otherwise. 
+    description: |
+        Bits and bobs, or paraphernalia, is my collection of things 
+        I'm not too sure where it would go otherwise. 
     show_author_byline: true
     show_post_date: true
     text_link_label: ""
