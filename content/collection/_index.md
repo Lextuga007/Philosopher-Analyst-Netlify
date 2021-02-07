@@ -16,12 +16,10 @@ layout: list-sidebar # list, list-sidebar
 cascade:
   layout: single-series 
   sidebar:
-    title: "Create a Collection"
-    author: Alison Hill
+    title: "Bits and bobs"
     description: |
-      Sometimes you want a souped-up series- a bundle of related pages 
-      meant to be read in sequence. This section is like a blog series, 
-      minus the blog.
+    author: Zoë Turner
+      Bits and bobs, or paraphernalia, this is my collection of things I'm not too sure where it would go otherwise. 
     show_author_byline: true
     show_post_date: true
     text_link_label: ""
