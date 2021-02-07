@@ -3,69 +3,52 @@ title: "Prework"
 weight: 1
 subtitle: ""
 excerpt: "How to prepare ahead of time."
-date: 2021-01-01
+date: 2021-02-10
 draft: false
 ---
 
-Welcome to the [Introducing Yourself Online](/) workshop! We look forward to meeting you. Before attending the workshop, please complete the following prework.
-
 ## Set up RStudio Cloud
 
-Sign up for a free RStudio Cloud account at https://rstudio.cloud/ before the workshop. I recommend logging in with an existing Google or GitHub account, if you have one (rather than creating a new account with another password you have to remember). I want you to be able to work from your own laptop in this workshop, but Cloud is an important back-up plan should you run into troubles.
+Sign up for a free RStudio Cloud account at https://rstudio.cloud/ before the workshop. Log in with either an existing Google or GitHub account, or alternatively set up an account directly with RStudio Cloud.
 
-## Set up GitHub
+NHS-R Community will send an email confirmation that will include the specific RStudio Cloud workspace invitation link. 
 
-We will be using GitHub in this workshop for version control and publishing. Sign up for a free GitHub.com account at <https://github.com/join> if you don't already have one. Also:
+All the files and necessary packages are pre-loaded to the Cloud workspace.
 
-+ Complete these [installation instructions](https://happygitwithr.com/install-intro.html).
+## If you want to use your own laptop/computer
+
+Some VPNs (Virtual Private Networks) block access to RStudio Cloud or you may wish to use your own computer. If that is the case please ensure you have [R](https://www.r-project.org/) and [RStudio](https://rstudio.com/products/rstudio/download/) installed. 
+
+We will be using the packages tidyverse and rmarkdown, and whilst these packages are all available through CRAN and should be allowed by most organisations, if you have strict restrictions on what can be installed please have these approved or it may be better to use RStudio Cloud for the training.
+
+### The Introduction to R and R Studio course 
+
+Slides can be found [here](https://philosopher-analyst.netlify.app/talk/intro-r-training/).
+
+We will cover installing packages but if you want, run the following code in RStudio at the command line (found in the bottom left quadrant area called 'Console'):
+
+    install.packages(c("tidyverse", "rmarkdown"))
     
-+ Test your connection between GitHub and RStudio following [these steps](https://happygitwithr.com/connect-intro.html). 
-    
-+ **NOTE:** We *strongly recommend* that if you are not already a fluent GitHub user you choose [HTTPS over SSH](https://happygitwithr.com/credential-caching.html).
+It's advisable to restart your R session before using any newly installed packages. Use the R Studio menu item *Session > Restart R* or the associated keyboard shortcut:
 
-## Brush up on markdown
++ <kbd>Ctrl + Shift + F10</kbd> (Windows and Linux) or
++ <kbd>Command + Shift + F10<kbd> (Mac OS). 
 
-Please complete this [10-minute interactive tutorial on Markdown](https://commonmark.org/help/tutorial/). 
+#### Download the files
 
-## Installations
+If you plan to use the RStudio Cloud you can still download the following files, but it's not necessary for the workshop. 
 
-Please bring a laptop that has the following installed:
+If, however, you want to use your own computer go to https://github.com/nhs-r-community/intro_r and click on the green button and select Download Zip.
 
-+ A recent version of R (>=3.6.0), which is available for free at https://cloud.r-project.org/
-    
-+ A recent version of RStudio Desktop (>=1.4), available for free ([RStudio Desktop Open Source License](https://www.rstudio.com/products/rstudio/download/#download)). Read up on the latest version [here](https://blog.rstudio.com/2021/01/19/announcing-rstudio-1-4/).
-    
-+ The R packages we will use, which you can install by connecting to the internet, opening RStudio, and running at the command line:
+  ![](github-download-files.PNG)
+  
+The zip includes the data files which will be used in the workshop, along with the pdf slides. I have converted the slides to be published online (see below) and made a few updates to refresh the content. 
 
-    ```r
-    > install.packages(c("usethis", "remotes", "distill", 
-                       "postcards", "blogdown"))
-    ```
-    
-    You'll also need to install the development version of the `rmarkdown` package:
-    
-    ```r
-    > remotes::install_github("rmarkdown")
-    ```
+#### Confirmation email
 
-## Install Hugo
+The NHS-R Community confirmation email will include: the link to the workshop, the RStudio Cloud workspace url and you should also receive a calendar invitation. If you are not sure that you can access zoom from your work laptop, please join a test zoom meeting coordinated by NHS-R Community.
 
-To use blogdown, please install Hugo:
-```r
-> blogdown::install_hugo()
-```
+#### Any problems
 
-And ensure your current version is at least as high as:
-```r
-> hugo_version()
-[1] ‘0.79.0’
-```
+Please contact nhs.rcommunity@nhs.net if you have any issues.
 
-## Check pandoc
-
-The RStudio IDE bundles an updated version of pandoc- if you did install v1.4 of the IDE, you should be all set!
-
-```r
-> rmarkdown::pandoc_version()
-[1] ‘2.11.3’
-```
