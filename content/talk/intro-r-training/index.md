@@ -41,6 +41,10 @@ Part 3: how to use the import wizard in R Studio and try importing example Excel
 
 <iframe src="https://lextuga007.github.io/intro_r/03-workshop_import_data.html#1" width="600" height="400" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe> <script>fitvids('.shareagain', {players: 'iframe'});</script>
 
+<iframe src="https://lextuga007.github.io/intro_r/04-workshop_ggplot2.html#1" width="600" height="400" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe> <script>fitvids('.shareagain', {players: 'iframe'});</script>
+
+<iframe src="https://lextuga007.github.io/intro_r/05-workshop_functions.html#1" width="600" height="400" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe> <script>fitvids('.shareagain', {players: 'iframe'});</script>
+
 RMarkdown example: [link](https://lextuga007.github.io/intro_r/intro-rmarkdown.html)
 
 <iframe src="https://lextuga007.github.io/intro_r/intro-rmarkdown.html" width="600" height="400" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe>
