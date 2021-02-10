@@ -41,7 +41,11 @@ Part 3: how to use the import wizard in R Studio and try importing example Excel
 
 <iframe src="https://lextuga007.github.io/intro_r/03-workshop_import_data.html#1" width="600" height="400" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe> <script>fitvids('.shareagain', {players: 'iframe'});</script>
 
+Part 4: an introduction to ggplot2 and plotting data
+
 <iframe src="https://lextuga007.github.io/intro_r/04-workshop_ggplot2.html#1" width="600" height="400" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe> <script>fitvids('.shareagain', {players: 'iframe'});</script>
+
+Part 5: how to locate help functions
 
 <iframe src="https://lextuga007.github.io/intro_r/05-workshop_functions.html#1" width="600" height="400" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe> <script>fitvids('.shareagain', {players: 'iframe'});</script>
 

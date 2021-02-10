@@ -32,7 +32,7 @@ We will cover installing packages but if you want, run the following code in RSt
 It's advisable to restart your R session before using any newly installed packages. Use the R Studio menu item *Session > Restart R* or the associated keyboard shortcut:
 
 + <kbd>Ctrl + Shift + F10</kbd> (Windows and Linux) or
-+ <kbd>Command + Shift + F10<kbd> (Mac OS). 
++ <kbd>Command + Shift + F10</kbd> (Mac OS). 
 
 #### Download the files
 

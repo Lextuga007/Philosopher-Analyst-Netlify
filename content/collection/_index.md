@@ -19,8 +19,7 @@ cascade:
     title: "Bits and bobs"
     author: Zoë Turner
     description: |
-        Bits and bobs, or paraphernalia, is my collection of things 
-        I'm not too sure where it would go otherwise. 
+        NHS-R Introduction to R and R Studio workshop slides. 
     show_author_byline: true
     show_post_date: true
     text_link_label: ""
