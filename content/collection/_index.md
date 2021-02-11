@@ -1,11 +1,9 @@
 ---
-title: "Create a Collection"
-subtitle: "A collection, minus the blog."
+title: "NHS-R Introduction to R and R Studio"
+subtitle: "A collection of slides used in the training"
 description: |
-  Sometimes you want a souped-up series- a bundle of related pages 
-  meant to be read in sequence. This section is like a blog series, 
-  minus the blog.
-author: Alison Hill
+  
+author: Zoë Turner
 show_post_thumbnail: true
 show_author_byline: false
 show_post_date: false
