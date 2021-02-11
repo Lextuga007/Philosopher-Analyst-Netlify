@@ -7,4 +7,6 @@ date: 2021-02-07
 draft: false
 ---
 
-<iframe src="https://lextuga007.github.io/intro_r/01-workshop_intro.html#1" width="1000" height="800" loading="lazy" allowfullscreen></iframe> <script>fitvids('.shareagain', {players: 'iframe'});</script>
+https://lextuga007.github.io/intro_r/01-workshop_intro.html#1
+
+<iframe src="https://lextuga007.github.io/intro_r/01-workshop_intro.html#1" width="900" height="700" loading="lazy" allowfullscreen></iframe> <script>fitvids('.shareagain', {players: 'iframe'});</script>
