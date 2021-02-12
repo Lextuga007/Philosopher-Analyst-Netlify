@@ -27,32 +27,7 @@ links:
   url: https://github.com/nhs-r-community/intro_r
 ---
 
-## Prework 
+Collection [link](https://philosopher-analyst.netlify.app/collection/)
 
-Located in [Collection](https://philosopher-analyst.netlify.app/collection/).
 
-## Slides
 
-Part 1: some examples of the use of R and how to set up R Studio
-
-<iframe src="https://lextuga007.github.io/intro_r/01-workshop_intro.html#1" width="600" height="400" loading="lazy" allowfullscreen></iframe> <script>fitvids('.shareagain', {players: 'iframe'});</script>
-
-Part 2: how and why to use projects in R Studio
-
-<iframe src="https://lextuga007.github.io/intro_r/02-workshop_projects.html#1" width="600" height="400" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe> <script>fitvids('.shareagain', {players: 'iframe'});</script>
-
-Part 3: how to use the import wizard in R Studio and try importing example Excel spreadsheets 
-
-<iframe src="https://lextuga007.github.io/intro_r/03-workshop_import_data.html#1" width="600" height="400" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe> <script>fitvids('.shareagain', {players: 'iframe'});</script>
-
-Part 4: an introduction to ggplot2 and plotting data
-
-<iframe src="https://lextuga007.github.io/intro_r/04-workshop_ggplot2.html#1" width="600" height="400" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe> <script>fitvids('.shareagain', {players: 'iframe'});</script>
-
-Part 5: how to locate help functions
-
-<iframe src="https://lextuga007.github.io/intro_r/05-workshop_functions.html#1" width="600" height="400" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe> <script>fitvids('.shareagain', {players: 'iframe'});</script>
-
-RMarkdown example: [link](https://lextuga007.github.io/intro_r/intro-rmarkdown.html)
-
-<iframe src="https://lextuga007.github.io/intro_r/intro-rmarkdown.html" width="600" height="400" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe>

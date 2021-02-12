@@ -10,3 +10,5 @@ draft: false
 https://lextuga007.github.io/intro_r/01-workshop_intro.html#1
 
 <iframe src="https://lextuga007.github.io/intro_r/01-workshop_intro.html#1" width="600" height="400" loading="lazy" allowfullscreen></iframe> <script>fitvids('.shareagain', {players: 'iframe'});</script>
+
+Featured art "Designed by rawpixel.com / Freepik"
