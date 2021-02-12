@@ -7,6 +7,6 @@ date: 2021-02-07
 draft: false
 ---
 
-05-workshop_functions.html
+https://lextuga007.github.io/intro_r/05-workshop_functions.html#1
 
-<iframe src="05-workshop_functions.html" width="900" height="700" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe> <script>fitvids('.shareagain', {players: 'iframe'});</script>
+<iframe src="https://lextuga007.github.io/intro_r/05-workshop_functions.html#1" width="600" height="400" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe> <script>fitvids('.shareagain', {players: 'iframe'});</script>
