@@ -108,8 +108,3 @@ enableEmoji = true
     title = "HS-R Introduction"
     url = "/collection/"
     weight = 4
-  [[menu.header]]
-    name = "Elements"
-    title = "Element Page"
-    url = "/elements/"
-    weight = 5
