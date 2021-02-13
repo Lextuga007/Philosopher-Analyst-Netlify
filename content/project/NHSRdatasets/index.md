@@ -11,12 +11,25 @@ categories:
   - R
   - package
 # layout options: single or single-sidebar
-layout: single
+layout: single-sidebar
+links:
+- icon: door-open
+  icon_pack: fas
+  name: website
+  url: https://cran.r-project.org/web/packages/NHSRdatasets/vignettes/ons_mortality.html
+- icon: github
+  icon_pack: fab
+  name: code
+  url: https://github.com/nhs-r-community/NHSRdatasets
+- icon: newspaper
+  icon_pack: far
+  name: Blog post
+  url: https://nhsrcommunity.com/blog/format-ons-spreadsheet/
 ---
 
-![NHS-R Community](NHSRLogo.png)
+![NHS-R Community](featured-hex.png)
 
-## NHS-R Community [NHSRdatasets](https://github.com/nhs-r-community/NHSRdatasets) package is a package created to help NHS, Public Health and related analysts/data scientists learn to use R. It contains several free datasets, help files explaining their structure, and vignette examples of their use. 
+### NHS-R Community [NHSRdatasets](https://github.com/nhs-r-community/NHSRdatasets) package is a package created to help NHS, Public Health and related analysts/data scientists learn to use R. It contains several free datasets, help files explaining their structure, and vignette examples of their use. 
 ---
 
 ### Contributing
