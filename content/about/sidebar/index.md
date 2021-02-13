@@ -5,7 +5,7 @@ author: "Zoë Turner"
 avatar: avatar.jpg
 avatar_shape: rounded # circle, square, rounded
 show_social: true
-show_audio_link: false
+show_audio_link: true
 audio_link: 
 - name: How to say my name
   url: audio.mp3
