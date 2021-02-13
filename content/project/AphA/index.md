@@ -18,7 +18,7 @@ links:
   icon_pack: fas
   name: website
   url: https://www.aphanalysts.org/
-- icon: <i class="fab fa-youtube"></i>
+- icon: youtube
   icon_pack: fas
   name: youtube
   url: https://www.youtube.com/channel/UCJVrw1kIEyQmb1khi1nQSNQ

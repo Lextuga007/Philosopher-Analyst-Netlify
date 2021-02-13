@@ -8,15 +8,15 @@ show_social: true
 show_audio_link: false
 audio_link: 
 - name: How to say my name
-  url: audio.m4a
+  url: audio.mp3
 link_list_label: "Interests" # bookmarks, elsewhere, etc.
 link_list:
-- name: Philosophy
-- name: Analysis
-- name: R
-  url: https://rstudio.com/
-- name: SQL
-
+- name: AphA
+  url: https://www.aphanalysts.org/
+- name: NHS-R Community
+  url: https://nhsrcommunity.com/
+- name: Hexitime
+  url: https://hexitime.com/
 ---
 
 ** index doesn't contain a body, just front matter above.
