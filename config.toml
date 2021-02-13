@@ -34,7 +34,7 @@ enableEmoji = true
   favicon = "/img/favicon.ico"
   logo = "/img/blogophonic-mark-dark.png"
   # select sections to highlight on about page
-  mainSections = ["blog", "nhsr-intro", "talk"]
+  mainSections = ["blog", "projects", "nhsr-intro", "talk"]
   show_social_links = true
   navallcaps = true
   # Default image for social sharing and search engines. 
