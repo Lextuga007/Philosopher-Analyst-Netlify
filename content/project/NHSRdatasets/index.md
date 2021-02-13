@@ -14,8 +14,6 @@ categories:
 layout: single
 ---
 
-{{< here >}}
-
 ![NHS-R Community](NHSRLogo.png)
 
 ## NHS-R Community [NHSRdatasets](https://github.com/nhs-r-community/NHSRdatasets) package is a package created to help NHS, Public Health and related analysts/data scientists learn to use R. It contains several free datasets, help files explaining their structure, and vignette examples of their use. 
