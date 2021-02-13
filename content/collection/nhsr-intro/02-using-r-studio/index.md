@@ -10,3 +10,5 @@ draft: false
 https://lextuga007.github.io/intro_r/02-workshop_projects.html#1
 
 <iframe src="https://lextuga007.github.io/intro_r/02-workshop_projects.html#1" width="600" height="400" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe> <script>fitvids('.shareagain', {players: 'iframe'});</script>
+
+Featured art: "Released by Venita Oberholster, publicdomainpictures.net"
