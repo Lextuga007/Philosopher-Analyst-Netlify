@@ -7,6 +7,7 @@ excerpt: ""
 date: "2020-11-02T09:30:00Z"
 date_end: "2020-11-06T16:30:00Z"
 event: "Introduction to R and R Studio NHS-R Community workshop"
+event_url: https://nhsrcommunity.com/nhsr-conference-2020/
 author: "Zoë Turner"
 location: "UK, online"
 draft: false
