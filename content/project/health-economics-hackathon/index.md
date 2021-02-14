@@ -26,7 +26,7 @@ links:
   name: blog
   url: https://www.r-bloggers.com/2019/11/health-economics-in-r-hackathon/
 - icon: github
-  icon_pack: fas
+  icon_pack: fab
   name: code
   url: https://github.com/HealthEconomicsHackathon
 ---
