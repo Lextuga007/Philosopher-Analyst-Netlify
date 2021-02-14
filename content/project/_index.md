@@ -10,7 +10,7 @@ layout: list-grid # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 
-  title: Some Packages and GitHub code repositories I've contributed to.
+  title: Packages, GitHub code repositories and Hackathons I've contributed to.
   description: |
     
   author: "Zoë Turner"

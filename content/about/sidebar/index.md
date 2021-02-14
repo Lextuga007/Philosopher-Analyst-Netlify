@@ -11,7 +11,7 @@ audio_link:
   url: audio.m4a
 link_list_label: "Interests" # bookmarks, elsewhere, etc.
 link_list:
-- name: AphA
+- name: Association of Professional Healthcare Analysts
   url: https://www.aphanalysts.org/
 - name: NHS-R Community
   url: https://nhsrcommunity.com/
