@@ -5,7 +5,7 @@ description: "This is a blog site that I learned about through the R Studio 2021
 
 date: 2019-02-18T12:27:33-06:00
 images:
-  - img/balloon-over-paris.jpg
+  - img/woman.jpg
 image_left: true
 text_align_left: false
 show_action_link: true
