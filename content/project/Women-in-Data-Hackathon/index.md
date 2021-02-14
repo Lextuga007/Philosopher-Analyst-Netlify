@@ -32,7 +32,7 @@ I volunteered to help support the first True Cue Women in Data Hackathon as a fa
 
 ### Data Sloth
 
-I urge you to check out the 6th member of the team's videos on all things data bit.ly/datasloth created by [Anna Trichkine](https://www.linkedin.com/in/annatrichkine/.
+I urge you to check out the 6th member of the team's short animation series created by [Anna Trichkine](https://www.linkedin.com/in/annatrichkine/) following the journey of a data loving sloth as they undertake the tasks of their data fellowship apprenticeship.
 
 ### Word from the group
 
