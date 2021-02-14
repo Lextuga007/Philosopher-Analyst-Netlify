@@ -23,8 +23,6 @@ We will be using the packages tidyverse and rmarkdown, and whilst these packages
 
 ## The Introduction to R and R Studio course 
 
-Slides can be found [here](https://philosopher-analyst.netlify.app/talk/intro-r-training/).
-
 We will cover installing packages but if you want, run the following code in RStudio at the command line (found in the bottom left quadrant area called 'Console'):
 
     install.packages(c("tidyverse", "rmarkdown"))
