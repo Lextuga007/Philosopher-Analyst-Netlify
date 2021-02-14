@@ -19,7 +19,7 @@ links:
   name: website
   url: https://www.aphanalysts.org/
 - icon: youtube
-  icon_pack: fas
+  icon_pack: fab
   name: youtube
   url: https://www.youtube.com/channel/UCJVrw1kIEyQmb1khi1nQSNQ
 ---
