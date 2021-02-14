@@ -3,12 +3,12 @@ title: {{ replace .Name "-" " " | title }}
 name: {{ replace .Name "-" " " | title }} Form
 description:
 date: {{ .Date }}
-draft: true
+draft: false
 url: {{ replace .Name "-" " " | lower }}
 type: form
 layout: split-right # split-right or split-left
 submit_button_label: Send
-formspree_form_id: https://formspree.io/f/xrgovekg # your@email.here
+formspree_form_id: zoe.turner2@nottshc.nhs.uk # your@email.here
 show_social_links: true # specify social accounts in site config
 show_poweredby_formspree: true
 ---
