@@ -15,10 +15,12 @@ draft: false
 layout: single
 categories:
 - workshop
+tags:
+- training
 links:
 - icon: github
   icon_pack: fab
-  name: feature-branch-repo
+  name: github
   url: https://github.com/nhs-r-community/intro_r
 - icon: youtube
   icon_pack: fab
