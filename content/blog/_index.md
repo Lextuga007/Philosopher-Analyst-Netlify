@@ -1,9 +1,8 @@
 ---
-title: A Blog That Works
+title: Blogs
 description: |
-  This is a fully featured blog that supports categories, 
-  tags, series, and pagination.
-author: "The R Markdown Team @RStudio"
+  As I build this site find my blogs on my [distill/GitHub site](https://lextuga007.github.io/PhilosopherAnalyst/) and on the [NHS-R Community site](https://nhsrcommunity.com/blog/author/z-turner/)
+author: "Zoë Turner"
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: true
