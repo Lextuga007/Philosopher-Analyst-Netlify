@@ -21,10 +21,6 @@ links:
   icon_pack: fas
   name: blog
   url: https://healthdatacounts.com/2019/11/25/health-economics-in-r-hackathon/
-- icon: door-open
-  icon_pack: fas
-  name: blog
-  url: https://www.r-bloggers.com/2019/11/health-economics-in-r-hackathon/
 - icon: github
   icon_pack: fab
   name: code
@@ -36,4 +32,6 @@ links:
 ### Health Economics Hackathon 2019
 ---
 
+This was the first Hackathon I had attended and I got to contribute to the writing fast Markov models group ([hermes6](https://github.com/HealthEconomicsHackathon/hermes6)) by compiling the [test scripts](https://github.com/HealthEconomicsHackathon/hermes6/tree/master/scripts).
 
+I learned the power of working collaboratively with people from various specialities as the team had people who concentrated on the statistics, R and GitHub work flow. 
