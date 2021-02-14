@@ -3,7 +3,7 @@ title: {{ replace .Name "-" " " | title }}
 name: {{ replace .Name "-" " " | title }} Form
 description:
 date: {{ .Date }}
-draft: false
+draft: true
 url: {{ replace .Name "-" " " | lower }}
 type: form
 layout: split-right # split-right or split-left
