@@ -4,7 +4,7 @@ subtitle: "Brief introduction to the qicharts2 package"
 excerpt: "Introducing SPC charts using Crimea war data"
 # Talk start and end times.
 # End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-02-287T10:00:00Z"
+date: "2020-02-28T10:00:00Z"
 date_end: "2020-02-28T13:00:00Z"
 event: "Local meeting of NHS-R Community"
 event_url: https://nhsrcommunity.com
@@ -30,6 +30,6 @@ links:
 
 ### qicharts2
 
-Introducing the SPC^[Statistical Process Control] chart package qicharts2 using Crimea war numbers that Florence Nightingale collected and which are available from the HistData package.
+Introducing the SPC (Statistical Process Control) chart package qicharts2 using Crimea war numbers that Florence Nightingale collected and which are available from the HistData package.
 
 Also briefly covers faceting and rare events (time between) SPC charts.
