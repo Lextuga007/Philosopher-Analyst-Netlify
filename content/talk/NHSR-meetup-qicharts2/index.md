@@ -1,6 +1,6 @@
 ---
 title: "NHSR-Community Meetup - qicharts2"
-subtitle: ""
+subtitle: "Brief introduction to the qicharts2 package"
 # excerpt: ""
 # Talk start and end times.
 # End time can optionally be hidden by prefixing the line with `#`.
