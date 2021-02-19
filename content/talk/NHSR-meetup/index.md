@@ -30,6 +30,6 @@ links:
 
 ### qicharts2
 
-Introducing the SPC^[Statistical Process Control] chart package {qicharts2} using Crimea war numbers that Florence Nightingale collected and which are available from the {HistData} package.
+Introducing the SPC^[Statistical Process Control] chart package qicharts2 using Crimea war numbers that Florence Nightingale collected and which are available from the HistData package.
 
 Also briefly covers faceting and rare events (time between) SPC charts.

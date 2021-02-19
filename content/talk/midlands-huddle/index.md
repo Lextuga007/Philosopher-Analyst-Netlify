@@ -17,7 +17,7 @@ categories:
 links:
 - icon: github
   icon_pack: fab
-  name: feature-branch-repo
+  name: github
   url: https://github.com/Lextuga007/Presentations/tree/main/midlands-huddle
 - icon: slideshare
   icon_pack: fab
