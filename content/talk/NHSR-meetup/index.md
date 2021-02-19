@@ -7,7 +7,7 @@ excerpt: "Introducing SPC charts using Crimea war data"
 date: "2020-02-287T10:00:00Z"
 date_end: "2020-22-28T13:00:00Z"
 event: "Local meeting of NHS-R Community"
-# event_url: 
+event_url: https://nhsrcommunity.com
 author: "Zoë Turner"
 location: "UK, online"
 draft: false
@@ -18,7 +18,7 @@ categories:
 links:
 - icon: github
   icon_pack: fab
-  name: feature-branch-repo
+  name: github
   url: https://github.com/Lextuga007/Presentations/tree/main/nhsr-meetup
 - icon: slideshare
   icon_pack: fab
