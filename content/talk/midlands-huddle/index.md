@@ -29,4 +29,4 @@ links:
 
 ### Seasonal 'fun' slides
 
-I used the code from Emily Reiderer's [repo](https://github.com/emilyriederer/demo-rmd-snow) to add snow to the RMarkdown slides. 
+I used the code from Emily Riederer's [repo](https://github.com/emilyriederer/demo-rmd-snow) to add snow to the RMarkdown slides. 
