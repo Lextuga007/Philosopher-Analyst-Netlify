@@ -25,7 +25,7 @@ links:
   url: https://lextuga007.github.io/Presentations/midlands-huddle/ice-breaker.html#1
 ---
 
-![The Strategy Unit](featured.png)
+![The Strategy Unit](featured.jpg)
 
 ### Seasonal 'fun' slides
 
