@@ -1,15 +1,15 @@
 ---
-title: "NHSR-Community Meetup - qicharts2"
+title: "NHSR-Community Meetup"
 subtitle: "Brief introduction to the qicharts2 package"
-# excerpt: ""
+excerpt: "Introducing SPC charts using Crimea war data"
 # Talk start and end times.
 # End time can optionally be hidden by prefixing the line with `#`.
 date: "2020-02-287T10:00:00Z"
 date_end: "2020-22-28T13:00:00Z"
 event: "Local meeting of NHS-R Community"
 # event_url: 
+author: "Zoë Turner"
 location: "UK, online"
-author: Zoë Turner
 draft: false
 # layout options: single, single-sidebar
 layout: single
