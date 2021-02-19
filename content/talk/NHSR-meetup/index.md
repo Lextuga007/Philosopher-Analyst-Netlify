@@ -9,6 +9,7 @@ date_end: "2020-22-28T13:00:00Z"
 event: "Local meeting of NHS-R Community"
 # event_url: 
 location: "UK, online"
+author: Zoë Turner
 draft: false
 # layout options: single, single-sidebar
 layout: single
