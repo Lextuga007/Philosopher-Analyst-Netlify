@@ -1,7 +1,7 @@
 ---
 title: "Midlands Analyst Huddle"
 subtitle: "Festive Christmas: slides with snow, Christmas jokes and Christmas facts (from ONS and the Met office)."
-excerpt: "Every 3rd Wednesday of the month, I do the online introduction workshop for NHS-R Community"
+excerpt: "Every 2 weeks on Thursday"
 # Talk start and end times.
 # End time can optionally be hidden by prefixing the line with `#`.
 date: "2020-12-17T11:00:00Z"
@@ -25,7 +25,8 @@ links:
   url: https://lextuga007.github.io/Presentations/midlands-huddle/ice-breaker.html#1
 ---
 
-### Seasonal slides
+![The Strategy Unit](featured.png)
+
+### Seasonal 'fun' slides
 
 I used the code from Emily Reiderer's [repo](https://github.com/emilyriederer/demo-rmd-snow) to add snow to the RMarkdown slides. 
-
