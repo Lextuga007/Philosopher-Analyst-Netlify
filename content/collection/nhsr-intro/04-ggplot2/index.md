@@ -1,5 +1,5 @@
 ---
-title: "04 ggplot2"
+title: "04 Introduction to ggplot2"
 weight: 5
 subtitle: "Part 4: an introduction to ggplot2 and plotting data"
 excerpt: ""

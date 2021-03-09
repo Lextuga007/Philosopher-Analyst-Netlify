@@ -1,5 +1,5 @@
 ---
-title: "05 functions"
+title: "05 What does this function do?"
 weight: 6
 subtitle: "Part 5: how to locate help functions"
 excerpt: ""
