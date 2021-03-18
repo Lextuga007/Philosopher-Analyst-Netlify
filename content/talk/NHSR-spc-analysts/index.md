@@ -37,7 +37,7 @@ Updated from the [NHS-R Meetup talk](https://philosopher-analyst.netlify.app/tal
 
 Other Shiny apps that will be shown briefly:
 
-[Chris Reading's SPC Shiny app](https://github.com/chrisreading01/SPCwizard)  ([patched by Chris Beeley](https://github.com/ChrisBeeley/SPCwizard/tree/patch-1) 
+[Chris Reading's SPC Shiny app](https://github.com/chrisreading01/SPCwizard)  ([patched by Chris Beeley](https://github.com/ChrisBeeley/SPCwizard/tree/patch-1)) 
 
 Nottinghamshire Healthcare NHS Foundation Trust's [ECDS data Shiny app](https://github.com/CDU-data-science-team/healthcareSPC)
 
