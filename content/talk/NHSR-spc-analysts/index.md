@@ -4,7 +4,7 @@ subtitle: "Show and tell of how SPC charts can be created in R using Crimea war 
 excerpt: "NHS-R Community talk on the community and showing some of the capabilities of R in regard to Statistical Process Control charts"
 # Talk start and end times.
 # End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-03-18T11:30:00Z"
+date: "2021-03-18"
 # date_end: "2021-03-18T12:30:00Z"
 event: "NHS-R Community introduction talk"
 author: "Zoë Turner"
