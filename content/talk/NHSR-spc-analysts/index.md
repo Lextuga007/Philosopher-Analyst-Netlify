@@ -5,7 +5,7 @@ excerpt: "NHS-R Community talk on the community and showing some of the capabili
 # Talk start and end times.
 # End time can optionally be hidden by prefixing the line with `#`.
 date: "2021-03-18T11:30:00Z"
-date_end: "2021-03-28T:12:30:00Z"
+date_end: "2021-03-28T12:30:00Z"
 event: "NHS-R Community introduction talk"
 author: "Zoë Turner"
 location: "UK, online"
