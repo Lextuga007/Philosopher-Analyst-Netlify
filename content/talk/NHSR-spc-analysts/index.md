@@ -6,8 +6,8 @@ excerpt: "NHS-R Community talk on the community and showing some of the capabili
 # End time can optionally be hidden by prefixing the line with `#`.
 date: "2021-03-18T11:30:00Z"
 date_end: "2021-03-28T:12:30:00Z"
-event: "Local meeting of NHS-R Community"
-event_url: https://nhsrcommunity.com
+event: "NHS-R Community introduction talk"
+#event_url: https://nhsrcommunity.com
 author: "Zoë Turner"
 location: "UK, online"
 draft: false
@@ -19,17 +19,27 @@ links:
 - icon: github
   icon_pack: fab
   name: github
-  url: https://github.com/Lextuga007/Presentations/tree/main/nhsr-meetup
+  url: https://github.com/Lextuga007/Presentations/tree/main/spc-analysts
 - icon: slideshare
   icon_pack: fab
   name: slides
-  url: https://lextuga007.github.io/Presentations/nhsr-meetup/qicharts2.html#1
+  url: https://lextuga007.github.io/Presentations/spc-analysts/spc-presentation.html#1
 ---
 
 ![NHS-R Community](featured.png)
 
-### qicharts2
+### Statistical Process Control Charts in R
 
-Introducing the SPC (Statistical Process Control) chart package qicharts2 using Crimea war numbers that Florence Nightingale collected and which are available from the HistData package.
+Updated from the [NHS-R Meetup talk](https://philosopher-analyst.netlify.app/talk/nhsr-meetup/) for analysts who specialise in Statistical Process Control charts.
 
-Also briefly covers faceting and rare events (time between) SPC charts.
+
+<iframe src="https://lextuga007.github.io/Presentations/spc-analysts/spc-presentation.html#1" width="600" height="400" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe> <script>fitvids('.shareagain', {players: 'iframe'});</script>
+
+
+Other Shiny apps that will be shown briefly:
+
+[Chris Reading's SPC Shiny app](https://github.com/chrisreading01/SPCwizard)  ([patched by Chris Beeley](https://github.com/ChrisBeeley/SPCwizard/tree/patch-1) 
+
+Nottinghamshire Healthcare NHS Foundation Trust's [ECDS data Shiny app](https://github.com/CDU-data-science-team/healthcareSPC)
+
+- Note these require downloading/cloning to the computer to run
