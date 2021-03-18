@@ -7,7 +7,6 @@ excerpt: "NHS-R Community talk on the community and showing some of the capabili
 date: "2021-03-18T11:30:00Z"
 date_end: "2021-03-28T:12:30:00Z"
 event: "NHS-R Community introduction talk"
-#event_url: https://nhsrcommunity.com
 author: "Zoë Turner"
 location: "UK, online"
 draft: false
