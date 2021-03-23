@@ -11,4 +11,4 @@ https://lextuga007.github.io/intro_r/intro-rmarkdown.html
 
 <iframe src="https://lextuga007.github.io/intro_r/intro-rmarkdown.html" width="600" height="400" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe> <script>fitvids('.shareagain', {players: 'iframe'});</script>
 
-Featued art: https://thegraphicsfairy.com/steampunk-clip-art-hot-air-balloons/
+Featured art: https://thegraphicsfairy.com/steampunk-clip-art-hot-air-balloons/
