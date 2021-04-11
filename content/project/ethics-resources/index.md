@@ -22,7 +22,7 @@ links:
   url: https://github.com/Lextuga007/ethics-resources
 ---
 
-![Ethics Resources](poppy-botany.png)
+![Ethics Resources](featured-hex.png)
 
 ### Ethics Committee Resources
 ---
