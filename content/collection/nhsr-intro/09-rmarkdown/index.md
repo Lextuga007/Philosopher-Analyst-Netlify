@@ -9,9 +9,9 @@ draft: false
 
 https://lextuga007.github.io/intro_r/intro-rmarkdown.html
 
-<i class="fab fa-github" src="https://github.com/Lextuga007/intro_r/blob/feature_conversion/intro-rmarkdown.Rmd"></i>
+[GitHub Code](https://github.com/Lextuga007/intro_r/blob/feature_conversion/intro-rmarkdown.Rmd)
 
-Simon Wellesley Miller's Markdown code <i class="fab fa-github" src="https://github.com/SimonW-M/Markdown"></i> and video <i class="fab fa-youtube" src="https://www.youtube.com/watch?v=VATINtNWpH0"></i>
+Simon Wellesley Miller's [RMarkdown code](https://github.com/SimonW-M/Markdown) and [video](https://www.youtube.com/watch?v=VATINtNWpH0)
 
 
 <iframe src="https://lextuga007.github.io/intro_r/intro-rmarkdown.html" width="600" height="400" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe> <script>fitvids('.shareagain', {players: 'iframe'});</script>
