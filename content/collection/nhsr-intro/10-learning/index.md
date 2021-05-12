@@ -1,5 +1,5 @@
 ---
-title: "10 Ongoing learning"
+title: "10 Ongoing Learning"
 weight: 11
 subtitle: "Part 10: suggestions for further R resources"
 excerpt: ""

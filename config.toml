@@ -1,4 +1,4 @@
-baseURL = "https://philosopher-analyst.netlify.app/"
+baseURL = "/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Hugo Apéro"
@@ -114,8 +114,3 @@ enableEmoji = true
     url = "/collection/"
     weight = 5
 
-
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
