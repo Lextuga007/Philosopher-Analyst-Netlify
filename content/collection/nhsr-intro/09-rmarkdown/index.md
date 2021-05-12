@@ -9,11 +9,11 @@ draft: false
 
 https://lextuga007.github.io/intro_r/intro-rmarkdown.html
 
-<i class="fab fa-github" src="https://github.com/Lextuga007/intro_r/blob/feature_conversion/intro-rmarkdown.Rmd"></i>
+<i class="fab fa-github"</i> GitHub code for [RMarkdown report](https://github.com/Lextuga007/intro_r/blob/feature_conversion/intro-rmarkdown.Rmd)
 
 # Simon Wellesley-Miller's Interactive Reports
-<i class="fab fa-github" src="https://github.com/SimonW-M/Markdown"></i>
-<i class="fab fa-youtube" src="https://www.youtube.com/watch?v=VATINtNWpH0"></i>
+<i class="fab fa-github"></i> Simon's [repository](https://github.com/SimonW-M/Markdown)
+<i class="fab fa-youtube"></i> [Video](https://www.youtube.com/watch?v=VATINtNWpH0) from the 2020 NHS-R Conference
 
 <iframe src="https://lextuga007.github.io/intro_r/intro-rmarkdown.html" width="600" height="400" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe> <script>fitvids('.shareagain', {players: 'iframe'});</script>
 
