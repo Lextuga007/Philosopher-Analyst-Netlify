@@ -7,6 +7,15 @@ date: 2021-05-12
 draft: false
 ---
 
+
+### Why does the course use the Cloud?
+
+This has come up in courses but phrased differently as I sometimes have to explain things for the cloud and desktop as they differ. An major thing is when I explain projects in R Studio but the cloud _is_ projects so the demonstration needs to be on my computer and cannot be followed in the same way. 
+
+The cloud is really useful to get around the different computer equipment that people have across the NHS, some of which don't support the latest R/RStudio and some have restrictions on what packages can be installed and it also means that all packages and files are installed and ready. Saying that, we've had problems with the cloud where people haven't had access (through restrictions on the VPN) or when the cloud is temporarily unavailable so there is no one perfect answer to this.
+
+I try not to explain too much of how the cloud works because the purpose of the course is to try to get people started in RStudio on desktops but it does sometimes require some acknowledgement of difference, like that for projects, as the functionality is fundamentally different. 
+
 ### What packages would you recommend asking an IT department to install if there are strict rules around what can be installed?
 
 Along with tidyverse and rmarkdown covered in this course other packages which could be useful are:
