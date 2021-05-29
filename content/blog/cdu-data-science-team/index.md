@@ -20,9 +20,9 @@ output:
     toc_depth: 1
 ---
 
-The Clinical Development Unit (CDU) Data Science Team write blogs and we publish this through {distill}. 
+The Clinical Development Unit (CDU) Data Science Team write [blogs](https://cdu-data-science-team.github.io/team-blog/) and we publish this through {distill}. 
 
-As part of our work towards openness and transparency we set up a meeting at Nottinghamshire Healthcare NHS Foundation Trust for all staff to come to talk about data, called Understanding Your Data. As part of that I write up some of the discussions at a separate [blog site](https://cdu-data-science-team.github.io/understanding-your-data/), also created in {distill}.
+As part of our work towards openness and transparency we set up a meeting at Nottinghamshire Healthcare NHS Foundation Trust for all staff to come to talk about data, called [Understanding Your Data](https://cdu-data-science-team.github.io/understanding-your-data/). As part of that I write up some of the discussions at a separate blog site, also created in {distill}.
 
 [![blog](nottshc-cdu-data-science-logo.PNG "CDU Data Science Team blog")](https://cdu-data-science-team.github.io/team-blog/)
 
