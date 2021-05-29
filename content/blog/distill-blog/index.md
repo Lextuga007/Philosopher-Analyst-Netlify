@@ -9,9 +9,9 @@ tags: [blogs]
 categories:
   - blogs
   - distill
-summary: An RSS feed to my distill Philosopher Analyst blog
+summary: Distill Philosopher Analyst blog
 image:
-  caption: 'Image by Eli Digital Creative from Pixabay https://pixabay.com/users/elifrancis-1160677/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1163695'
+  caption: '[Image by Eli Digital Creative from Pixabay](https://pixabay.com/users/elifrancis-1160677/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1163695)'
   focal_point: ''
 output:
   blogdown::html_page:
