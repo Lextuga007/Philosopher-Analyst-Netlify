@@ -14,7 +14,8 @@ sidebar:
   title: A Penny for Your Thoughts
   description: |
     At some point I will be using this as my main blog site, until then 
-    I've written a few blogs on my [distill/GitHub site](https://lextuga007.github.io/PhilosopherAnalyst/) and on the [NHS-R Community site](https://nhsrcommunity.com/blog/author/z-turner/)
+    I've written a few blogs on my [distill/GitHub site](https://lextuga007.github.io/PhilosopherAnalyst/) and on the [NHS-R Community site](https://nhsrcommunity.com/blog/author/z-turner/).
+    [Image](https://pixabay.com/users/nietjuh-2218222/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3091212)
     
   author: "Zoë Turner"
   text_link_label: Subscribe via RSS
