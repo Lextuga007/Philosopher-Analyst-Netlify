@@ -1,6 +1,6 @@
 ---
 title: "True Cue Women in Data Hackathon 2020"
-subtitle: "Successful in an application to Imperial College London's first health economics in R hackathon."
+subtitle: "Supported a successful team at a Data Hackathon"
 excerpt: "The inaugral Hackathon analysing a dataset on COVID-19."
 date: "2020-10-06"
 date_end: "2020-11-02"
