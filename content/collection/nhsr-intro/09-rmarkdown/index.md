@@ -33,9 +33,9 @@ There are tons of examples of what you can put in an R Markdown from interactive
 
 <i class="fab fa-github"></i> Simon's [repository](https://github.com/SimonW-M/Markdown)</br>
 
-https://lextuga007.github.io/intro_r/R-Training-v5.html
+https://lextuga007.github.io/Markdown/R-Training-v5.html
 
-<iframe src="https://lextuga007.github.io/intro_r/R-Training-v5.html" width="600" height="400" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe> <script>fitvids('.shareagain', {players: 'iframe'});</script>
+<iframe src="https://lextuga007.github.io/Markdown/R-Training-v5.html" width="600" height="400" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe> <script>fitvids('.shareagain', {players: 'iframe'});</script>
 
 
 Featured art: https://thegraphicsfairy.com/steampunk-clip-art-hot-air-balloons/
