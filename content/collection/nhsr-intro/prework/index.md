@@ -44,11 +44,11 @@ It's advisable to restart your R session before using any newly installed packag
 
 If you plan to use the RStudio Cloud you can still download the following files, but it's not necessary for the workshop. 
 
-If, however, you want to use your own computer go to https://github.com/nhs-r-community/intro_r and click on the green button and select Download Zip.
+If, however, you want to use your own computer go to https://github.com/Lextuga007/intro_r/blob/feature_conversion/data/intro_r.7z and click on the grey download button
 
   ![](github-download-files.PNG)
   
-The zip includes the data files which will be used in the workshop, along with the pdf slides. I have converted the slides to be published online (see below) and made a few updates to refresh the content. 
+The zip includes the data files which will be used in the workshop, along with an R Markdown example documents. I have converted the slides to be published online (see below) and made a few updates to refresh the content. 
 
 #### Confirmation email
 
