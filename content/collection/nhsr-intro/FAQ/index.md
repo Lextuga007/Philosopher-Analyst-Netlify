@@ -7,6 +7,9 @@ date: 2021-05-12
 draft: false
 ---
 
+### Slides/RStudio/GitHub doesn't show or work
+
+Often problems with the slides not showing, RStudio Connect not loading and GitHub losing functionality is due to being on a VPN (Virtual Private Network). My Trust, for example, does not allow RStudio Connect and whilst I can view GitHub, I'm not able to do some things like download zip files. 
 
 ### Why does the course use the Cloud?
 
@@ -45,3 +48,9 @@ Getting R/RStudio was only possible through the approval by our IT security team
 
 Whilst there is no one way to convince IT departments of the benefits of having R/RStudio and having the freedom to install packages with no restrictions I would say, try to ensure the request is with IT security and they know this is used elsewhere in the NHS. Showing people the benefits of R can help too as I show the work by [Trafford Data Lab](https://www.trafforddatalab.io/) as an example of publicly available data visualisations which would be of interest to Councils.
 
+
+#### How long does it take for someone with no coding experience to learn R?
+
+This was a great question that really resonated with me as I firmly believe that anyone who wants to learn R can. Having another language beforehand can often help but it can also be a hindrance, it really depends on the person or the problem you are working on. I've heard it's possible to learn R in a week with the right support but it feels too much putting an expectation saying time scales like this as people learn at different rates. It also depends what is meant by 'knowing R' as I really enjoy tidying data and picked that up quickly but I'm very slow at coding a chart and I would take an age to do a map! 
+
+If you want to learn R, you can, and you will succeed the best way that suits you in the time that's right for you. But remember there is a great community using R who are also want you to succeed and there's no better place than the NHS-R Community Slack group: nhsrcommunity.slack.com. I've asked plenty of questions there that may have been 'simple' but this is a supportive space where there is no question that is too simple.
