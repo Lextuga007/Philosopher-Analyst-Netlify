@@ -17,11 +17,11 @@ Knit the file by selecting the wool and needle button just under the tab names, 
 
 I then show the following report that I've built to show more of the text possibilities in R Markdown.
 
-<i class="fab fa-github"></i> GitHub code for [RMarkdown report](https://github.com/Lextuga007/intro_r/blob/feature_conversion/intro-rmarkdown.Rmd)
+<i class="fab fa-github"></i> GitHub code for [RMarkdown report](https://github.com/nhs-r-community/intro_r/blob/main/10-intro-rmarkdown.Rmd)
 
-https://lextuga007.github.io/intro_r/intro-rmarkdown.html
+https://nhs-r-community.github.io/intro_r/10-intro-rmarkdown.html
 
-<iframe src="https://lextuga007.github.io/intro_r/intro-rmarkdown.html" width="600" height="400" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe> <script>fitvids('.shareagain', {players: 'iframe'});</script>
+<iframe src="https://nhs-r-community.github.io/intro_r/10-intro-rmarkdown.html" width="600" height="400" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe> <script>fitvids('.shareagain', {players: 'iframe'});</script>
 
 # A much more fancy and fantastic example from Simon Wellesley-Miller
 

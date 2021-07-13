@@ -44,11 +44,11 @@ It's advisable to restart your R session before using any newly installed packag
 
 If you plan to use the RStudio Cloud you can still download the following files, but it's not necessary for the workshop. 
 
-If, however, you want to use your own computer go to https://github.com/Lextuga007/intro_r/blob/feature_conversion/data/intro_r.7z and click on the grey download button
+If, however, you want to use your own computer go to https://github.com/nhs-r-community/intro_r_data and click on the green <kdb>Code</kbd> button
 
   ![](github-download-files.PNG)
   
-The zip includes the data files which will be used in the workshop, along with an R Markdown example documents. I have converted the slides to be published online (see below) and made a few updates to refresh the content. 
+The zip includes the data files which will be used in the workshop. I have converted the slides to be published online (see below) and made a few updates to refresh the content. 
 
 #### Confirmation email
 
@@ -60,10 +60,9 @@ Please contact nhs.rcommunity@nhs.net if you have any issues.
 
 #### Join the Slack group
 
-A direct access link to the NHS-R Slack group will be shared in the workshop but the settings do allow some email addresses (like nhs.net) to sign up directly. The Slack url is nhsrcommunity.slack.com. Feel free to join the Slack group prior to the course!
+A direct access link to the NHS-R Slack group will be shared in the workshop but the settings do allow some email addresses (like nhs.net) to sign up directly. The Slack url is [nhsrcommunity.slack.com](https://nhsrcommunity.slack.com/). Feel free to join the Slack group prior to the course!
 
-There are channels for a wide variety of conversations including # help-with-r and # help-shiny. There is also a channel for # python and # book-club. A new book club is being started for reading through the R for Data Science # r4ds-book-club, which the workshop is based on. 
-
+There are channels for a wide variety of conversations including # help-with-r and # help-shiny. There is also a channel for # python and # book-club. 
 
 
 Featured Art https://www.vintagevectors.com/objects/old-hot-air-balloons-and-blimps
