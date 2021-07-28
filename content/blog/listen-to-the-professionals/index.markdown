@@ -14,11 +14,6 @@ featured: yes
 draft: no
 ---
 
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 I was gutted to hear the words: "we take people who have never coded and in fact we had one doctor who came along and learned to code in 3 months". This was intended to be inspirational as in, "anyone can do this", but it doesn't inspire me and this is why...
 
 I work in a profession that is integral to healthcare but is rarely recognised and by that, I really mean "listened to". We are asked to produce numbers, statistics and look for patterns in data but, quite often, are then 'told' what to report or have those reports altered inappropriately. For example, I've seen trend lines being asked to be added to [Statistical Process Control charts](https://en.wikipedia.org/wiki/Statistical_process_control) and tables of numbers to be added to already informative reports with charts (something discussed by Chris Beeley in his [blog Graphs > tables](https://chrisbeeley.net/?p=1537) recently), all the things that we know are not required, but our positions in the hierarchy is not high and so we are not respected and listened to.  
