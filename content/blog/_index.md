@@ -13,7 +13,7 @@ layout: list-sidebar # list, list-sidebar, list-grid
 sidebar: 
   title: Bibliotheca
   description: |
-    Where I publish my thoughts is a little like my brain - it's in various places. This collects all of those places together.
+    Where I publish my thoughts and is a little like my brain in that my thoughts are all over the place. This page attempts to collect all of those places together.
     [Image](https://pixabay.com/users/nietjuh-2218222/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3091212)
     
   author: "Zoë Turner"
