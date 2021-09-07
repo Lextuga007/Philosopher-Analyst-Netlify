@@ -1,6 +1,6 @@
 ---
 title: "Frequently Asked Questions"
-weight: 12
+weight: 13
 subtitle: "Not necessarily frequently asked but definitely good questions"
 excerpt: ""
 date: 2021-05-12
