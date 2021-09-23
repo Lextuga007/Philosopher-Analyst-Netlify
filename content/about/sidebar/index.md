@@ -1,6 +1,6 @@
 ---
 ## Configure sidebar content in narrow column
-role: "Senior Information Analyst (with philosophical tendencies)"
+role: "Data Scientist (with philosophical tendencies)"
 author: "Zoë Turner"
 avatar: avatar.jpg
 avatar_shape: rounded # circle, square, rounded
