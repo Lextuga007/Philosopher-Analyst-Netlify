@@ -21,7 +21,7 @@ Some VPNs (Virtual Private Networks) block access to RStudio Cloud or you may wi
 
   ![](broken.PNG)
 
-It is important to have the latest R installed as older versions of R have had issues when installing tidyverse packages. [Errors](https://github.com/tidymodels/broom/issues/297) say that packages `broom` cannot be installed but even when this has been installed separately there continue to be other errors. 
+It is important to have the latest R installed as older versions of R have had issues when installing tidyverse packages. Errors say that packages like `broom` or `readr` cannot be installed but even when this has been installed separately there continue to be other errors. Some of the [answers](https://community.rstudio.com/t/having-trouble-installing-and-loading-tidyverse-readr-no-hms-package/11268/7) in this post from RStudio community may help. 
 
 If you require permission for programs to be installed on your computer and have got an older version of R and R Studio, it is worth asking for these to be updated by your IT department as this is always good practice for fixing known issues and bugs. 
 
