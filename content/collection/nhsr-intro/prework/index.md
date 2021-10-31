@@ -29,6 +29,16 @@ If you require permission for programs to be installed on your computer and have
 
 We will be using the packages tidyverse and rmarkdown, and whilst these packages are all available through CRAN and should be allowed by most organisations, if you have strict restrictions on what can be installed please have these approved or it may be better to use RStudio Cloud for the training.
 
+`install.packages("tidyverse")` << This will be covered in the course itself
+`install.packages("rmarkdown")`
+
+October 2021
+
+With the addition of slides and exercises for working with SQL databases, the following packages will also be required:
+
+`install.packages("DBI")` and
+`install.packages("dbplyr")`
+
 ## The Introduction to R and R Studio course 
 
 We will cover installing packages but if you want, run the following code in RStudio at the command line (found in the bottom left quadrant area called 'Console'):
