@@ -37,6 +37,16 @@ It is important to have the latest R installed as older versions of R have had i
 
 If you require permission for programs to be installed on your computer and have got an older version of R and R Studio, it is worth asking for these to be updated by your IT department as this is always good practice for fixing known issues and bugs. 
 
+### Using code to download files
+
+If you want to use code to download all the files, open the zip file and create a project in R Studio to work from then the following package and code is needed:
+  
+  ``` r
+# install.packages("usethis")
+usethis::use_course("nhs-r-community/intro_r_data")
+```
+
+
 ### Packages
 
 We will be using the packages tidyverse and rmarkdown, and whilst these packages are all available through CRAN and should be allowed by most organisations, if you have strict restrictions on what can be installed please have these approved or it may be better to use RStudio Cloud for the training.
@@ -44,7 +54,7 @@ We will be using the packages tidyverse and rmarkdown, and whilst these packages
 `install.packages("tidyverse")` << This will be covered in the course itself
 `install.packages("rmarkdown")`
 
-October 2021
+##### October 2021
 
 With the addition of slides and exercises for working with SQL databases, the following packages will also be required:
 
