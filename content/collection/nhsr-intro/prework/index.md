@@ -37,19 +37,9 @@ It is important to have the latest R installed as older versions of R have had i
 
 If you require permission for programs to be installed on your computer and have got an older version of R and R Studio, it is worth asking for these to be updated by your IT department as this is always good practice for fixing known issues and bugs. 
 
-### Using code to download files
-
-If you want to use code to download all the files, open the zip file and create a project in R Studio to work from then the following package and code is needed:
-  
-  ``` r
-# install.packages("usethis")
-usethis::use_course("nhs-r-community/intro_r_data")
-```
-
-
 ### Packages
 
-We will be using the packages tidyverse and rmarkdown, and whilst these packages are all available through CRAN and should be allowed by most organisations, if you have strict restrictions on what can be installed please have these approved or it may be better to use RStudio Cloud for the training.
+We will be using the packages {tidyverse} and {rmarkdown}, and whilst these packages are all available through CRAN and should be allowed by most organisations, if you have strict restrictions on what can be installed please have these approved or it may be better to use RStudio Cloud for the training.
 
 `install.packages("tidyverse")` << This will be covered in the course itself
 `install.packages("rmarkdown")`
@@ -58,21 +48,17 @@ We will be using the packages tidyverse and rmarkdown, and whilst these packages
 
 With the addition of slides and exercises for working with SQL databases, the following packages will also be required:
 
-`install.packages("DBI")` and
-`install.packages("dbplyr")`
+`install.packages(c("DBI", "dbplyr"))`
 
-## The Introduction to R and R Studio course 
 
-We will cover installing packages but if you want, run the following code in RStudio at the command line (found in the bottom left quadrant area called 'Console'):
-
-    install.packages(c("tidyverse", "rmarkdown"))
-    
 It's advisable to restart your R session before using any newly installed packages. Use the R Studio menu item *Session > Restart R* or the associated keyboard shortcut:
 
 + <kbd>Ctrl + Shift + F10</kbd> (Windows and Linux) or
 + <kbd>Command + Shift + F10</kbd> (Mac OS). 
 
-#### Download the files
+## Course materials
+
+#### Downloading files
 
 If you plan to use the RStudio Cloud you can still download the following files, but it's not necessary for the workshop. 
 
@@ -81,6 +67,15 @@ If, however, you want to use your own computer go to https://github.com/nhs-r-co
   ![Screenshot of the GitHub download files page with the selection from the dropdown of Download zip highlighted](github-download-files.PNG)
   
 The zip includes the data files which will be used in the workshop. I have converted the slides to be published online (see below) and made a few updates to refresh the content. 
+
+#### Using code to download files
+
+If you want to use code to download all the files, open the zip file and create a project in R Studio to work from then the following package and code is needed:
+  
+``` r
+install.packages("usethis")
+usethis::use_course("nhs-r-community/intro_r_data")
+```
 
 #### Confirmation email
 
