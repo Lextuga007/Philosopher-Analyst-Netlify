@@ -15,11 +15,23 @@ NHS-R Community will send an email confirmation that will include the specific R
 
 All the files and necessary packages are pre-loaded to the Cloud workspace.
 
+When you first log in with the link shared in the email it will take you to an R Studio Cloud screen that says about Joining a space. Click on the blue button for Join Space:
+
+![Screenshot of the workspace view in R Studio Cloud](rstudio-cloud.PNG)
+
+The next screen that loads is a welcome page to the workshop (note that this screenshot is for the Shiny course):
+
+![Screenshot of the welcome page after Join Space has been selected](welcome-to-workspace.PNG)
+
+The final screen looks blank as it will say All Projects but nothing will be listed. If you click on the blue New Project this will start up the project that has all the necessary documents and packages all loaded. It can still take a few minutes to load:
+
+![Screenshot of the Projects page which will be empty](project.PNG)
+
 ## If you want to use your own laptop/computer
 
 Some VPNs (Virtual Private Networks) block access to RStudio Cloud or you may wish to use your own computer. If that is the case please ensure you have the **latest** [R](https://www.r-project.org/) and [RStudio](https://rstudio.com/products/rstudio/download/) installed. 
 
-  ![](broken.PNG)
+  ![A screenshot of a broken screen of smashed glass](broken.PNG)
 
 It is important to have the latest R installed as older versions of R have had issues when installing tidyverse packages. Errors say that packages like `broom` or `readr` cannot be installed but even when this has been installed separately there continue to be other errors. Some of the [answers](https://community.rstudio.com/t/having-trouble-installing-and-loading-tidyverse-readr-no-hms-package/11268/7) in this post from RStudio community may help. 
 
@@ -56,7 +68,7 @@ If you plan to use the RStudio Cloud you can still download the following files,
 
 If, however, you want to use your own computer go to https://github.com/nhs-r-community/intro_r_data and click on the green <kdb>Code</kbd> button
 
-  ![](github-download-files.PNG)
+  ![Screenshot of the GitHub download files page with the selection from the dropdown of Download zip highlighted](github-download-files.PNG)
   
 The zip includes the data files which will be used in the workshop. I have converted the slides to be published online (see below) and made a few updates to refresh the content. 
 
