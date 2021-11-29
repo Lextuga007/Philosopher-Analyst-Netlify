@@ -29,9 +29,11 @@ The final screen looks blank as it will say All Projects but nothing will be lis
 
 ## If you want to use your own laptop/computer
 
-Some VPNs (Virtual Private Networks) block access to RStudio Cloud or you may wish to use your own computer. If that is the case please ensure you have the **latest** [R](https://www.r-project.org/) and [RStudio](https://rstudio.com/products/rstudio/download/) installed. 
+Some VPNs (Virtual Private Networks) block access to RStudio Cloud or you may wish to use your own computer. VPNS sometimes do work but block parts of the R functionality, this is particularly a problem with Shiny apps (which is not covered in the Introduction to R and R Studio course).
 
-  ![A screenshot of a broken screen of smashed glass](broken.PNG)
+If that is the case please ensure you have the **latest** [R](https://www.r-project.org/) and [RStudio](https://rstudio.com/products/rstudio/download/) installed. 
+
+![A screenshot of a broken screen of smashed glass](broken.PNG)
 
 It is important to have the latest R installed as older versions of R have had issues when installing tidyverse packages. Errors say that packages like `broom` or `readr` cannot be installed but even when this has been installed separately there continue to be other errors. Some of the [answers](https://community.rstudio.com/t/having-trouble-installing-and-loading-tidyverse-readr-no-hms-package/11268/7) in this post from RStudio community may help. 
 
