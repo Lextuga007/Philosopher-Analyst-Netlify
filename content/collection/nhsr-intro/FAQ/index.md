@@ -53,4 +53,31 @@ Whilst there is no one way to convince IT departments of the benefits of having 
 
 This was a great question that really resonated with me as I firmly believe that anyone who wants to learn R can. Having another language beforehand can often help but it can also be a hindrance, it really depends on the person or the problem you are working on. I've heard it's possible to learn R in a week with the right support but it feels too much putting an expectation saying time scales like this as people learn at different rates. It also depends what is meant by 'knowing R' as I really enjoy tidying data and picked that up quickly but I'm very slow at coding a chart and I would take an age to do a map! 
 
-If you want to learn R, you can, and you will succeed the best way that suits you in the time that's right for you. But remember there is a great community using R who are also want you to succeed and there's no better place than the NHS-R Community Slack group: nhsrcommunity.slack.com. I've asked plenty of questions there that may have been 'simple' but this is a supportive space where there is no question that is too simple.
+If you want to learn R, you can, and you will succeed the best way that suits you in the time that's right for you. But remember there is a great community using R who are also want you to succeed and there's no better place than the NHS-R Community Slack group: nhsrcommunity.slack.com. I've asked plenty of questions there that may have been 'simple' but this is a supportive space 
+where there is no question that is too simple.
+
+#### Tips on practicing R after the course.
+
+In the course I fully acknowledge that it's incredibly hard to always use R for projects when you first start out, particularly with any time pressures to complete tasks. I found it very difficult when I first started, and would often defer back to the tools I knew I could use quickly (namely SQL and R). However, we know the best way to learn anything, including languages, is to practice and use it. 
+
+I suggest either trying a project that doesn't have these time pressures, but is interesting enough that you want to solve it, or replicate something that you've already done. For example, reproducing a statistical test, tidying a dataset or reproducing a chart. Doing this can take time but takes some pressure of needing to complete it as it already exists and then you are also able to make comparisons which can be useful for statistics or data cleaning. 
+
+#### How can I practice using R if I don't have projects/analyst work that is suitable?
+
+This particular question was posed by someone who also doesn't necessarily use quantitative data so they wanted to know how they could keep up their learning. This was a great question to showcase some of the R projects that people can get involved with and a few are listed here:
+
+* NHS-R Community projects on [GitHub](https://github.com/nhs-r-community) are perfect for getting involved with the community, even for those just starting out with using R. There are many and varied projects but you also don't necessarily need to code to contribute. Lots of projects need people to test out the vignette code, ask questions, write out things like Code of Conducts. There is always help too with these projects which are often coordinated through the NHS-R Slack group.
+
+* [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday) is a weekly data project in R that you can join in exploring a dataset, visualising it and also get to see how others work on the data through the hashtag #TidyTuesday.  
+
+* Reading the [R for Data Science](https://r4ds.had.co.nz/index.html) book is great as it includes exercises that use the pre-loaded cars dataset. The [unofficial answers](https://jrnold.github.io/r4ds-exercise-solutions/) is also very useful and interesting as it both gives the solution and expands on the concepts. The [NHS-R Book group](https://github.com/nhs-r-community/book_group) is also (as of December 2021) reading through this book.
+
+* Consider setting up your own blog/website. There are two very fun ways to build sites in R: [distill](https://rstudio.github.io/distill/) and [Hugo Apéro](https://hugo-apero-docs.netlify.app/learn/). Many people use these sites to quickly build and collate their projects together and they can be incredibly inspirational. Showcase examples include:
+
+- [distill's examples](https://pkgs.rstudio.com/distill/articles/examples.html)
+- [distillery showcase](https://distillery.rbind.io/showcase.html)
+- [R-Ladies's collated blogs](https://github.com/rladies/awesome-rladies-blogs)
+- [Hugo Apéro's showcase](https://hugo-apero-docs.netlify.app/project/)
+
+Sites don't have to be about coding as I've built a site to put together all the information I was collating about Ethics for the [Ethics Committee](https://ethics-committee-resources.netlify.app/collection/) at my Trust. You can use your own pictures or those that are [free](https://github.com/jennybc/free-photos) and have a lot of fun being creative with R. I'd recommend just ensuring that all images have a CCO licence and try to include a credit somewhere. That's good for the original owner but also useful for you too when you want to retrace where you located the image.
+
