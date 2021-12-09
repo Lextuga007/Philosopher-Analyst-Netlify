@@ -72,7 +72,9 @@ This particular question was posed by someone who also doesn't necessarily use q
 
 * Reading the [R for Data Science](https://r4ds.had.co.nz/index.html) book is great as it includes exercises that use the pre-loaded cars dataset. The [unofficial answers](https://jrnold.github.io/r4ds-exercise-solutions/) is also very useful and interesting as it both gives the solution and expands on the concepts. The [NHS-R Book group](https://github.com/nhs-r-community/book_group) is also (as of December 2021) reading through this book.
 
-* Consider setting up your own blog/website. There are two very fun ways to build sites in R: [distill](https://rstudio.github.io/distill/) and [Hugo Apéro](https://hugo-apero-docs.netlify.app/learn/). Many people use these sites to quickly build and collate their projects together and they can be incredibly inspirational. Showcase examples include:
+* Consider setting up your own blog/website. There are two very fun ways to build sites in R: [distill](https://rstudio.github.io/distill/) and [Hugo Apéro](https://hugo-apero-docs.netlify.app/learn/). I've also built [a template in {distill}](https://github.com/CDU-data-science-team/distill-blog-template) for the CDU Data Science Team that may be helpful to also get started.
+
+Many people use these sites to quickly build and collate their projects together and they can be incredibly inspirational. Showcase examples include:
 
 - [distill's examples](https://pkgs.rstudio.com/distill/articles/examples.html)
 - [distillery showcase](https://distillery.rbind.io/showcase.html)
