@@ -79,6 +79,10 @@ install.packages("usethis")
 usethis::use_course("nhs-r-community/intro_r_data")
 ```
 
+## Downloading slides
+
+If you want to have the slides on your computer, they can be downloaded from the same repository as the intro-r files but on a branch called [gh-pages](https://github.com/nhs-r-community/intro_r/tree/gh-pages). Using the same process as for `Downloading files` above you can download these to your computer by clicking on the green button and selecting the zip download.
+
 #### Confirmation email
 
 The NHS-R Community confirmation email will include: the link to the workshop, the RStudio Cloud workspace url and you should also receive a calendar invitation. If you are not sure that you can access zoom from your work laptop, please join a test zoom meeting coordinated by NHS-R Community.
