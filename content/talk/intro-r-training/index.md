@@ -1,11 +1,11 @@
 ---
 title: "Introduction to R and R Studio"
 subtitle: "Using xaringan slides"
-excerpt: "Every 3rd Wednesday of the month, I do the online introduction workshop for NHS-R Community"
+excerpt: "Every 3rd Wednesday of the month throughout 2021 and January 2022, I did the online introduction workshop for NHS-R Community"
 # Talk start and end times.
 # End time can optionally be hidden by prefixing the line with `#`.
 date: "2021-01-20T09:30:00Z"
-date_end: "2021-12-08T16:30:00Z"
+date_end: "2022-01-12T16:30:00Z"
 event: "Introduction to R and R Studio NHS-R Community workshop"
 event_url: https://nhsrcommunity.com/events/
 author: "Zoë Turner"
@@ -27,6 +27,8 @@ links:
 ---
 
 Collection [link](https://philosopher-analyst.netlify.app/collection/)
+
+Recorded workshops [2020](https://philosopher-analyst.netlify.app/talk/nhsr-conference-2020-introduction-r-training/) and [2021](https://philosopher-analyst.netlify.app/talk/nhsr-conference-2021-introduction-r-training/)
 
 
 
