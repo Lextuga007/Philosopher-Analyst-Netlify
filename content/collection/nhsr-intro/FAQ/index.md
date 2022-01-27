@@ -7,6 +7,10 @@ date: 2021-05-12
 draft: false
 ---
 
+### I'm interested in training this course where can I find more?
+
+I recently did a Train the Trainer event for the NHS-R Community and [compiled information](https://philosopher-analyst.netlify.app/talk/nhsr-train-the-trainer/) including the recorded workshops from the conference. We also have a particular channel in the NHS-R Slack group called #training where we discuss who can do what training for the community. We are always looking for trainers and supporters to assist in the training so do get in touch through [Slack](nhsrcommunity.slack.com) or [contact me](https://philosopher-analyst.netlify.app/contact/).
+
 ### Slides/RStudio/GitHub doesn't show or work
 
 Often problems with the slides not showing, RStudio Connect not loading and GitHub losing functionality is due to being on a VPN (Virtual Private Network). My Trust, for example, does not allow RStudio Connect and whilst I can view GitHub, I'm not able to do some things like download zip files. 

@@ -1,7 +1,7 @@
 ---
 title: Utterances
 description: |
-  These are my talks, workshops, and other events
+  These are my talks, workshops, and now [Podcasts](https://soundcloud.com/nhs-r-community), thanks to the NHS-R Community
 show_post_thumbnail: true
 author: "Zoë Turner"
 show_author_byline: true
