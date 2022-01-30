@@ -3,7 +3,7 @@ title: "Data Ethics"
 #layout: single
 layout: single-sidebar
 date: '2021-01-15'
-slug: analysis-gardening
+slug: data-ethics
 tags:
   - thoughts
   - ethics
