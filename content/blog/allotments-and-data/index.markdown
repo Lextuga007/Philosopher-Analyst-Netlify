@@ -20,4 +20,4 @@ A few weeks before I'd been accused by my neighbouring plot holder of "scratting
 
 My work often feels like that allotment. I clear away the mess and tidy the data to start the process of analysis, the growing. From that cleared data all sorts of things could be grown: dashboards, data visualisations and statistical analysis are but a few. Of course there will always be weeds in there, and most people won't see them, but the data analysts and scientists will know they are in there; often just lurking under the surface. They know that, like the seasons, the data cleaning will always come around again no matter how many datasets you manage to "weed". But, unlike the allotment where the weeding was only for my benefit, the weeding of data is often for the benefit of others.
 
-Photo of gardening toolsin a pot near gloves by Gary Barnes from [Pexels](https://www.pexels.com/photo/gardening-tools-in-pot-near-gloves-6231714/)
+Thumbnail photo of gardening tools in a pot near gloves by Gary Barnes from [Pexels](https://www.pexels.com/photo/gardening-tools-in-pot-near-gloves-6231714/)

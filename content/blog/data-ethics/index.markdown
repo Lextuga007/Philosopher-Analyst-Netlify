@@ -93,4 +93,4 @@ It's worth remembering that philosophy is not a series of facts to learn and reg
 
 I'd be interested to know and talk to any professional applied ethicists or any ethics committees with ethicists. My contact details can be found [here](https://lextuga007.github.io/PhilosopherAnalyst/about.html#why-philosopher-analyst).
 
-[Photo by Janko Ferlic from Pexels](https://www.pexels.com/photo/light-inside-library-590493/)
+Thumbnail photo is of a library with lights by Janko Ferlic from [Pexels](https://www.pexels.com/photo/light-inside-library-590493/)
