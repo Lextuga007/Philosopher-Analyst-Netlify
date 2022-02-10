@@ -7,7 +7,11 @@ date: 2022-02-10
 draft: false
 ---
 
-https://lextuga007.github.io/rmd-workshop/slides/00-loop.html#1
+1. Create an account and log into [GitHub](https://github.com/)
 
-<iframe src="https://lextuga007.github.io/rmd-workshop/slides/00-loop.html#1" width="600" height="400" loading="lazy" allowfullscreen></iframe> <script>fitvids('.shareagain', {players: 'iframe'});</script>
+1. Create an account and log into [RStudio Cloud](https://rstudio.cloud/)
+
+1. Learn about/refresh your knowledge of [Markdown](https://commonmark.org/help/tutorial/)
+
+
 
