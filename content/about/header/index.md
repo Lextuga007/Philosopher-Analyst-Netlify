@@ -14,4 +14,4 @@ I have a particular interest in Ethics having studied Philosophy and some of my 
 
 ----
 
-<i class="fas fa-glass-cheers pr2"></i>Sincere thanks to [Alison Hill](https://alison.rbind.io/) and @RStudio for their Diversity scholarship workshop on [introducing yourself online](https://iyo-rstudio-global.netlify.app/collection/) and providing this fantastic Hugo Apéro template
+<i class="fas fa-glass-cheers pr2"></i>Sincere thanks to [Alison Hill](https://alison.rbind.io/) and @RStudio for their Diversity scholarship workshop on [introducing yourself online](https://iyo-rstudio-global.netlify.app/intro-r/) and providing this fantastic Hugo Apéro template

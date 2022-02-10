@@ -26,7 +26,7 @@ links:
   url: https://github.com/nhs-r-community/intro_r
 ---
 
-Collection [link](https://philosopher-analyst.netlify.app/collection/)
+Introduction to R and R Studio collection [link](https://philosopher-analyst.netlify.app/intro-r/)
 
 Recorded workshops [2020](https://philosopher-analyst.netlify.app/talk/nhsr-conference-2020-introduction-r-training/) and [2021](https://philosopher-analyst.netlify.app/talk/nhsr-conference-2021-introduction-r-training/)
 

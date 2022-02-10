@@ -26,7 +26,7 @@ links:
   url: https://lextuga007.github.io/Presentations/train-the-trainer/intro-r-train-the-trainer.html#1
 ---
 
-Course website [link](https://philosopher-analyst.netlify.app/collection/)
+Course website [link](https://philosopher-analyst.netlify.app/intro-r/)
 
 Other related material including [2020 conference workshop](https://philosopher-analyst.netlify.app/talk/nhsr-conference-2020-introduction-r-training/) and [2021 conference workshop](https://philosopher-analyst.netlify.app/talk/nhsr-conference-2021-introduction-r-training/)
 

@@ -111,6 +111,6 @@ enableEmoji = true
   [[menu.header]]
     name = "nhsr-intro"
     title = "NHS-R Introduction"
-    url = "/collection/"
+    url = "/intro-r/"
     weight = 5
 
