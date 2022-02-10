@@ -34,7 +34,7 @@ enableEmoji = true
   favicon = "/img/thinker-by-Gilbert-Bages-from-the-Noun-Project.png"
   logo = "/img/thinker-by-Gilbert-Bages-from-the-Noun-Project.png"
   # select sections to highlight on about page
-  mainSections = ["blog", "project", "nhsr-intro", "talk"]
+  mainSections = ["blog", "project", "nhsr-intro", "rmd-workshop", "talk"]
   show_social_links = true
   navallcaps = true
   # Default image for social sharing and search engines. 
@@ -113,4 +113,8 @@ enableEmoji = true
     title = "NHS-R Introduction"
     url = "/intro-r/"
     weight = 5
-
+  [[menu.header]]
+    name = "rmd-workshop"
+    title = "RMarkdown workshop"
+    url = "/rmd-workshop/"
+    weight = 6
