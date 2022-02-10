@@ -2,7 +2,7 @@
 title: "Prework"
 weight: 1
 subtitle: ""
-excerpt: "How to prepare ahead of time."
+excerpt: "How to prepare ahead of time"
 date: 2022-02-10
 draft: false
 ---
