@@ -1,8 +1,7 @@
 ---
 title: "RMarkdown workshop"
 subtitle: "A collection of slides used in the training"
-description: |
-Combining the [slides](https://ysc-rmarkdown.netlify.app/) created by Alison Hill, RStudio and the [RMarkdown workshop](https://github.com/nhs-r-community/intro_rmd) created by Hansel Palencia, NHS-R Community.
+description: This site is being built for a day workshop on RMarkdown.
   
 author: Zoë Turner
 show_post_thumbnail: true
@@ -18,7 +17,7 @@ cascade:
     title: "RMarkdown from basics to advanced"
     author: Zoë Turner
     description: |
-This site is being built for a day workshop on RMarkdown.
+Combining the [slides](https://ysc-rmarkdown.netlify.app/) created by Alison Hill, RStudio and the [RMarkdown workshop](https://github.com/nhs-r-community/intro_rmd) created by Hansel Palencia, NHS-R Community.
     show_author_byline: true
     show_post_date: true
     text_link_label: ""
