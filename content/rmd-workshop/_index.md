@@ -1,5 +1,5 @@
 ---
-title: "NHS-R Introduction to R and R Studio"
+title: "RMarkdown from Basics to Advanced"
 subtitle: "A collection of slides used in the training"
 description: |
   
@@ -17,11 +17,6 @@ cascade:
     title: "Bits and bobs"
     author: Zoë Turner
     description: |
-        NHS-R Introduction to R and R Studio workshop slides. 
-        The slides can be viewed here directly or expanded to full screen. 
-        In the training I like to split my screen between the slides and live coding and the full screen doesn't work for that, so I use the GitHub pages that they feed from. The links can be found on the same page as the interactive slides.
-        Slides have been converted to RMarkdown {xaringan} slides so resize within a web browser.
-        Featured art "The Vector Art" https://www.vintagevectors.com/decorative/vintage-floral-vector-pattern/
     show_author_byline: true
     show_post_date: true
     text_link_label: ""
