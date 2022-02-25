@@ -14,7 +14,7 @@ layout: list-sidebar # list, list-sidebar
 cascade:
   layout: single-series 
   sidebar:
-    title: "RMarkdown"
+    title: "RMarkdown workshop"
     author: Zoë Turner
     description: |
     show_author_byline: true

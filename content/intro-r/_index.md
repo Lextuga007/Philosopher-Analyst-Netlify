@@ -14,7 +14,7 @@ layout: list-sidebar # list, list-sidebar
 cascade:
   layout: single-series 
   sidebar:
-    title: "Bits and bobs"
+    title: "NHS-R Introduction to R and R Studio workshop"
     author: Zoë Turner
     description: |
         NHS-R Introduction to R and R Studio workshop slides. 
