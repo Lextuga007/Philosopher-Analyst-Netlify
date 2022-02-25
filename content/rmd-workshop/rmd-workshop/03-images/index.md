@@ -1,5 +1,5 @@
 ---
-title: "Images"
+title: "03 Images"
 weight: 4
 subtitle: ""
 excerpt: "Linking to images in RMarkdown"

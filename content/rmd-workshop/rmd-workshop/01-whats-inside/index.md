@@ -1,5 +1,5 @@
 ---
-title: "What's inside"
+title: "01 What's inside"
 weight: 3
 subtitle: ""
 excerpt: "A breakdown of the parts that make up RMarkdown"

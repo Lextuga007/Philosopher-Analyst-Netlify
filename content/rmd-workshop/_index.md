@@ -1,5 +1,5 @@
 ---
-title: "RMarkdown from Basics to Advanced"
+title: "RMarkdown"
 subtitle: "A collection of slides used in the training"
 description: |
   
@@ -17,6 +17,10 @@ cascade:
     title: "RMarkdown workshop"
     author: Zoë Turner
     description: |
+        RMarkdown workshop slides. 
+        The slides can be viewed here directly or expanded to full screen. 
+        In the training I like to split my screen between the slides and live coding and the full screen doesn't work for that, so I use the GitHub pages that they feed from. The links can be found on the same page as the interactive slides.
+        Slides have been built using RMarkdown {xaringan} slides so resize within a web browser.
     show_author_byline: true
     show_post_date: true
     text_link_label: ""

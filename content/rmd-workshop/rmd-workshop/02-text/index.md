@@ -1,5 +1,5 @@
 ---
-title: "Text"
+title: "02 Text"
 weight: 3
 subtitle: ""
 excerpt: "Explaining how to change the text formats of Markdown"

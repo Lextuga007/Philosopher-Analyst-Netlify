@@ -1,5 +1,5 @@
 ---
-title: "Setting up"
+title: "00 Setting up"
 weight: 2
 subtitle: ""
 excerpt: "How to prepare ahead of time"
