@@ -1,6 +1,6 @@
 ---
 title: "Prework"
-weight: 1
+weight: 2
 subtitle: ""
 excerpt: "How to prepare ahead of time"
 date: 2022-02-10
