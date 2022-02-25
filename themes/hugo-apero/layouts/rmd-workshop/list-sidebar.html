@@ -5,7 +5,7 @@
     {{ if not (eq .FirstSection .CurrentSection) }}
       {{ partial "shared/breadcrumb.html" . }}
     {{ end }}
-    {{ $paginator := .Paginate (where .Pages "Type" "intro-r").ByWeight }}
+    {{ $paginator := .Paginate (where .Pages "Type" "rmd-workshop").ByWeight }}
       {{ range $paginator.Pages }}
         {{ .Scratch.Set "$root" $caller }}
         {{ partial "shared/summary-section.html" . }}
