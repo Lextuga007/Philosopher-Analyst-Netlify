@@ -1,6 +1,6 @@
 ---
 title: "11 SQL Connections"
-weight: 12
+weight: 13
 subtitle: "Part 11: Database connections in R"
 excerpt: ""
 date: 2021-09-07

@@ -1,6 +1,6 @@
 ---
 title: "02 Using R Studio"
-weight: 3
+weight: 4
 subtitle: "Part 2: how and why to use projects in R Studio"
 excerpt: ""
 date: 2021-02-07

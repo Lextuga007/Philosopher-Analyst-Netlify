@@ -1,6 +1,6 @@
 ---
 title: "03 Importing data"
-weight: 4
+weight: 5
 subtitle: "Part 3: how to use the import wizard in R Studio and try importing example Excel spreadsheets"
 excerpt: ""
 date: 2021-02-07

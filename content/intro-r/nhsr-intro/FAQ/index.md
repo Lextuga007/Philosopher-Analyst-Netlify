@@ -1,6 +1,6 @@
 ---
 title: "Frequently Asked Questions"
-weight: 13
+weight: 1
 subtitle: "Not necessarily frequently asked but definitely good questions"
 excerpt: ""
 date: 2021-05-12
@@ -13,7 +13,9 @@ I recently did a Train the Trainer event for the NHS-R Community and [compiled i
 
 ### Slides/RStudio/GitHub doesn't show or work
 
-Often problems with the slides not showing, RStudio Connect not loading and GitHub losing functionality is due to being on a VPN (Virtual Private Network). My Trust, for example, does not allow RStudio Connect and whilst I can view GitHub, I'm not able to do some things like download zip files. 
+Often problems with the slides not showing, RStudio Connect not loading and GitHub losing functionality is due to being on a VPN (Virtual Private Network)/Network. My Trust, for example, does not allow RStudio Connect and whilst I can view GitHub, I'm not able to do some things like download zip files. 
+
+To download the html files to work offline or off a VPN/Network go to the [NHS-R Community GitHub Repository](https://github.com/nhs-r-community/intro_r/tree/gh-pages) and click on the green button `Code` to download the zip file. As these slides are built using {xaringan} the zip file contains folders `css`, `libs` and `img` which the slides needed to be created but which are not needed if you are looking at them locally. They are `self-contained` so you can delete these folders with no impact on the slides.
 
 ### Why does the course use the Cloud?
 
