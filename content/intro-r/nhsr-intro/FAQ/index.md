@@ -3,9 +3,15 @@ title: "Frequently Asked Questions"
 weight: 1
 subtitle: "Not necessarily frequently asked but definitely good questions"
 excerpt: ""
-date: 2021-05-12
+date: 2022-03-18
 draft: false
 ---
+
+### Where is the code that built this?
+
+Currently, the code that built the site can be found in the [Philosopher Analyst](https://github.com/Lextuga007/Philosopher-Analyst-Netlify/tree/main/content/intro-r) Hugo Apéro site.
+
+The code for the slides themselves is hosted on the [NHS-R Community GitHub repository](https://github.com/nhs-r-community/intro_r) which is broken down into several parts, the slide code, the html output and the data files used in the course. See the repository for links.
 
 ### I'm interested in training this course where can I find more?
 
