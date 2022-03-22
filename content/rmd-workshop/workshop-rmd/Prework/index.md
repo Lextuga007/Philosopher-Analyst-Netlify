@@ -20,7 +20,7 @@ Due to issues that were reported by attendees at the first delivered course, the
 ```r
 install.packages(c("tidyverse", "rmarkdown", "here", 
                    "glue", "usethis", "distill", "bookdown",
-                   "remotes", "shiny"))
+                   "remotes", "shiny", "wesanderson"))
 ```
 
 1. For the files copy the following into the console and run:
