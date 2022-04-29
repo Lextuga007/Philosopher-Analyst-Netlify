@@ -1,5 +1,5 @@
 ---
-title: "02 Using R Studio"
+title: "02 Using Projects"
 weight: 4
 subtitle: "Part 2: how and why to use projects in R Studio"
 excerpt: ""
