@@ -1,6 +1,6 @@
 ---
 title: "05 Inline code"
-weight: 6
+weight: 8
 subtitle: ""
 excerpt: "Using code within text"
 date: 2022-02-10

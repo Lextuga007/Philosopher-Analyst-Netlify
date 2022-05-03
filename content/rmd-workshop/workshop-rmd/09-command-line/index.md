@@ -1,6 +1,6 @@
 ---
 title: "09 Command Line"
-weight: 10
+weight: 12
 subtitle: ""
 excerpt: "Using RMarkdown from the command line"
 date: 2022-02-10
