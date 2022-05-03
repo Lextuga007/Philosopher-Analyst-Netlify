@@ -1,6 +1,6 @@
 ---
 title: "10 Loop Parameters"
-weight: 11
+weight: 13
 subtitle: ""
 excerpt: "Using loops and purrr to generate multiple reports from parameters"
 date: 2022-02-10

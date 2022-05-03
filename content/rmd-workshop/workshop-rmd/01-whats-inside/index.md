@@ -1,6 +1,6 @@
 ---
 title: "01 What's inside"
-weight: 3
+weight: 4
 subtitle: ""
 excerpt: "A breakdown of the parts that make up RMarkdown"
 date: 2022-02-10

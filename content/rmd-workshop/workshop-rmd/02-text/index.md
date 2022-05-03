@@ -1,6 +1,6 @@
 ---
 title: "02 Text"
-weight: 3
+weight: 5
 subtitle: ""
 excerpt: "Explaining how to change the text formats of Markdown"
 date: 2022-02-10

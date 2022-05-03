@@ -1,6 +1,6 @@
 ---
 title: "04 Code chunks"
-weight: 5
+weight: 7
 subtitle: ""
 excerpt: "Understanding the metadata of code chunks"
 date: 2022-02-10

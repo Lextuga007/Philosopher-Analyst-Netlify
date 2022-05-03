@@ -1,6 +1,6 @@
 ---
 title: "07 Output Formats"
-weight: 8
+weight: 10
 subtitle: ""
 excerpt: "Exploring the in-build and external package output formats"
 date: 2022-02-10
