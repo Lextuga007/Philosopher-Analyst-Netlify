@@ -7,6 +7,72 @@ date: 2022-03-18
 draft: false
 ---
 
+### Who should attend?
+
+No prior knowledge of R is required; however, it is assumed that you will have a moderate level of computer literacy. For example, you will be able to navigate to drives and files and be confident in searching for solutions to technical problems on the internet. You will work with, or have an interest in, data. 
+
+### Why R?
+
+R is one of the most powerful data science software solutions used the world over and is being actively promoted by the NHS-R Community. Analysts throughout the NHS and in Social Care are discovering the huge potentials of R which range from analytical and statistical work to creating websites and interactive reports. It’s a hugely flexible and versatile language that has far extended its original use for statistics.
+
+### What are the Learning Outcomes for the course? 
+
+After this one-day introduction, you will:
+
+1.	See examples of R in producing healthcare related visualisations and use publicly available healthcare data to answer questions.  
+1.	Recognise and understand key terms often used by users of R. 
+1.	Interact with R using the RStudio environment.
+2.	Learn how to set up some of the accessibility features of RStudio. 
+1.	Take charge of their workflow using RStudio projects.
+1.	Import data into R using csv files (other data sources will be discussed).
+1.	Carry out data manipulation using simple steps to solve complex problems.
+1.	Join multiple tables together.
+1.	Produce and save plots using ggplot2.
+1.	Learn how to find more information on functions within R packages.
+1.	Open an RMarkdown template and learn how to get started in producing an integrated text and code report.
+1.	Take away ideas for continuing learning after the course.
+
+### What is the agenda?
+
+Timings in the course vary depending on any issues that people may encounter.
+
+*Using R Studio*
+Some examples of the use of R and how to set up R Studio  
+
+*Using Projects*
+How and why to use projects in R Studio
+
+*Importing data*  
+How to use the import wizard in R Studio and try importing example Excel spreadsheets  
+
+--------- Break ---------  
+
+*Introduction to ggplot2*   
+An introduction to ggplot2 and plotting data  
+
+*What does this function do?*  
+How to locate help functions  
+
+--------- Lunch -----------  
+
+*Data wrangling with dplyr*  
+Introducing a few of the key dplyr functions to help shape and tidy data  
+
+*Naming objects* 
+How to create an object from some code or a plot  
+
+--------- Break ---------  
+
+*Relational data*  
+How to join data using dplyr  
+
+*R Markdown*  
+Introducing RMarkdown reports  
+
+*Ongoing learning*  
+Suggestions for further R resources  
+
+
 ### Where is the code that built this?
 
 Currently, the code that built the site can be found in the [Philosopher Analyst](https://github.com/Lextuga007/Philosopher-Analyst-Netlify/tree/main/content/intro-r) Hugo Apéro site.
@@ -94,4 +160,8 @@ Many people use these sites to quickly build and collate their projects together
 - [Hugo Apéro's showcase](https://hugo-apero-docs.netlify.app/project/)
 
 Sites don't have to be about coding as I've built a site to put together all the information I was collating about Ethics for the [Ethics Committee](https://ethics-committee-resources.netlify.app/collection/) at my Trust. You can use your own pictures or those that are [free](https://github.com/jennybc/free-photos) and have a lot of fun being creative with R. I'd recommend just ensuring that all images have a CCO licence and try to include a credit somewhere. That's good for the original owner but also useful for you too when you want to retrace where you located the image.
+
+## Explaining a boxplot
+
+It's possibly because I get very excited in the course about boxplots that it's reasonable for people to ask about them! One of the best explanations I've seen is by Simon Wellseley-Miller from the [AphA conference in 2021](https://www.youtube.com/watch?v=rsFh0MPZra8) at 0:51 on understanding Length of Stay using boxplots. The presentation slides are available on the [AphA website](https://www.aphanalysts.org/documents/presentations-day-1-2/).
 
