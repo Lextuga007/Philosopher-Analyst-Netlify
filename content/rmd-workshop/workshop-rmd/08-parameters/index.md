@@ -1,6 +1,6 @@
 ---
 title: "08 Parameters"
-weight: 11
+weight: 12
 subtitle: ""
 excerpt: "Using Parameters to change reports"
 date: 2022-02-10

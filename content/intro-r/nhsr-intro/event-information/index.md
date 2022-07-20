@@ -2,7 +2,7 @@
 title: "Event Information"
 weight: 1
 subtitle: "Course content and pre-requisites"
-excerpt: "Information on the course and pre-requisities"
+excerpt: "Information on the course and pre-requisites"
 date: 2022-07-20
 draft: false
 ---

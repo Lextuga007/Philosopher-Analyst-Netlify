@@ -1,6 +1,6 @@
 ---
 title: "03 Images"
-weight: 6
+weight: 7
 subtitle: ""
 excerpt: "Linking to images in RMarkdown"
 date: 2022-02-10

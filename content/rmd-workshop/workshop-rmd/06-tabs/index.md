@@ -1,6 +1,6 @@
 ---
 title: "06 Tabs"
-weight: 9
+weight: 10
 subtitle: ""
 excerpt: "Adding and formatting tabs"
 date: 2022-02-10
