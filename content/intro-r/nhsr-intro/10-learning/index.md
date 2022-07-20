@@ -1,6 +1,6 @@
 ---
 title: "10 Ongoing Learning"
-weight: 12
+weight: 13
 subtitle: "Part 10: suggestions for further R resources"
 excerpt: ""
 date: 2021-03-23

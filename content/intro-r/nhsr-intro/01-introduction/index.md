@@ -1,6 +1,6 @@
 ---
 title: "01 Introduction"
-weight: 3
+weight: 4
 subtitle: "Part 1: some examples of the use of R and how to set up R Studio"
 excerpt: ""
 date: 2021-02-07

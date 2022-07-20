@@ -1,6 +1,6 @@
 ---
 title: "09 RMarkdown"
-weight: 11
+weight: 12
 subtitle: "Part 9: introducing RMarkdown reports"
 excerpt: ""
 date: 2021-05-12

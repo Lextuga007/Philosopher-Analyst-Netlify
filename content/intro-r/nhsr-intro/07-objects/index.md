@@ -1,6 +1,6 @@
 ---
 title: "07 Naming objects"
-weight: 9
+weight: 10
 subtitle: "Part 7: how to create an object from some code or a plot"
 excerpt: ""
 date: 2021-03-09

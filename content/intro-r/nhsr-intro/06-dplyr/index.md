@@ -1,6 +1,6 @@
 ---
 title: "06 Data wrangling with dplyr"
-weight: 8
+weight: 9
 subtitle: "Part 6: introducing a few of the key dplyr functions to help shape and tidy data"
 excerpt: ""
 date: 2021-03-09

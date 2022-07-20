@@ -1,6 +1,6 @@
 ---
 title: "05 What does this function do?"
-weight: 7
+weight: 8
 subtitle: "Part 5: how to locate help functions"
 excerpt: ""
 date: 2021-02-07
