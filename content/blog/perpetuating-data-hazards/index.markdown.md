@@ -7,7 +7,6 @@ slug: ethics
 tags:
   - thoughts
   - profession
-  - ethics
 subtitle: 'Exploring data hazards and thoughts on the feelings that come from seeing them clearly'
 summary: 'Once you start looking you might realise you've been involved with a data hazard for a very long time.'
 lastmod: '2022-09-27'
