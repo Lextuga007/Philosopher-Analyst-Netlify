@@ -1,11 +1,11 @@
 ---
 title: "Reproducible Analytical Pipelines (RAP)"
-# subtitle: ""
-excerpt: "A short talk on Reproducible Analytical Pipelines"
+subtitle: "A short talk on Reproducible Analytical Pipelines"
+excerpt: "A prepared talk on RAP not yet delivered."
 # Talk start and end times.
 # End time can optionally be hidden by prefixing the line with `#`.
 date: "2022-09-27"
-event: "AphA North West Branch"
+# event: ""
 author: "Zoë Turner"
 location: "UK, online"
 draft: false
