@@ -24,7 +24,7 @@ links:
   url: https://cdu-data-science-team.github.io/presentations/2022-09-27%20reproducible-analytical-pipeline/Reproducible-Analytical-Pipeline.html#1
 ---
 
-![Reproducible Analytical Pipelines](featured.png)
+![Reproducible Analytical Pipelines](featured-hex.png)
 
 
 A short introductory presentation initially intended for the AphA North West Branch meeting in September 2022 along with [Data Hazards](https://philosopher-analyst.netlify.app/talk/data-hazards/).
