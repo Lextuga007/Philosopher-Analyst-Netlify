@@ -3,7 +3,7 @@ title: "Perpetuating Data Hazards"
 #layout: single
 layout: single-sidebar
 date: '2022-09-27'
-slug: listen-professionals
+slug: data-hazards
 tags:
   - thoughts
   - profession
