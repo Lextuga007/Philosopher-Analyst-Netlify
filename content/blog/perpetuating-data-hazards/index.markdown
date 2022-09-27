@@ -39,17 +39,17 @@ The problem, if it could be called that, with looking at your data tasks with a 
 
 What do you do when the sudden realisation that something you've taken for granted is actually hugely risky and it's never been documented or precautions put in place? Well, this is where moral dilemmas come into their own. Do you:
 
-* keep quiet -  after all this has always happened and nothing bad has occurred (so far and insofar as you know), 
-* keep quiet -  as you may not be senior enough to do anything anyway or 
+* keep quiet - after all this has always happened and nothing bad has occurred (so far and insofar as you know), 
+* keep quiet - as you may not be senior enough to do anything anyway or 
 * keep quiet - if you are senior as this could be very embarrassing
 * try to introduce the idea of data hazards so people understand them first and then reassess what to do or
 * just go ahead and raise the alarms?
 
-The answer will depend on a number of factors and not all around you as a person ([psychological safety](https://en.wikipedia.org/wiki/Psychological_safety) is a huge factor) but you can see already there are only really 3 options: inaction, introduce data hazards (then perhaps inaction hoping someone else will raise it) or raise the issue somehow. 
+The answer will depend on a number of factors and not all around you as a person ([psychological safety](https://en.wikipedia.org/wiki/Psychological_safety) is a huge factor) but you can see already there are only really 3 options: inaction, introduce data hazards (then perhaps inaction hoping someone else will do something) or raise the issue somehow. 
 
 One way it to raise this formally is by making it an incident or a near-miss, but that process can feel frightening or too over the top for remote hypotheticals. Fear is a big consideration and is one of the reasons I use incident data cautiously in analysis as the act of raising an incident is a process in itself. To say that violent incidents have increased, for example, could be obscured by the fact that the "recording" of incidents increased and the incidents were always there. 
 
-I think we all know the answer to many moral dilemmas - but often in the abstract. Inaction in the face of massive change can feel easier, if uncomfortable, but in reflecting upon that story of the Hydrant sign, the person may have felt a bit embarrassed when they were told of its purpose but their question enlightened me. They didn't know I would learn from their request but I did and now I'm telling you (you may have already known but not everyone does it seems: ["People in disbelief after finding out the meaning of 'the'H' signs on lampposts"](https://www.dailyrecord.co.uk/lifestyle/people-disbelief-after-just-finding-27918029) [Daily Record] 6 Sep 2022). What mechanisms do we have, as analysts and data scientists for raising and sharing these data ethical dilemmas? Could ethics committees support us after all this data is often open to abuse and can harm patients? I'm not sure of the answers, I just know that, at this point in time, I'm not sure we have any options to choose from.
+I think we all know the answer to many moral dilemmas - but often in the abstract. Inaction in the face of massive change can feel easier, if uncomfortable, but in reflecting upon that story of the hydrant sign, the person may have felt a bit embarrassed when they were told of its purpose but their question enlightened me. They didn't know I would learn from their request but I did and now I'm telling you (you may have already known but not everyone does it seems: ["People in disbelief after finding out the meaning of 'the'H' signs on lampposts"](https://www.dailyrecord.co.uk/lifestyle/people-disbelief-after-just-finding-27918029) [Daily Record] 6 Sep 2022). What mechanisms do we have, as analysts and data scientists for raising and sharing these data ethical dilemmas? Could ethics committees support us after all this data is often open to abuse and can harm patients? I'm not sure of the answers, I just know that, at this point in time, I'm not sure we have any options to choose from.
 
 
 ## Useful links
