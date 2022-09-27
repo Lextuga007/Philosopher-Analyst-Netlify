@@ -4,7 +4,7 @@ subtitle: "Introducing data hazards"
 excerpt: "A short talk on the background to data hazards and showing an example of its use for a Freedom of Information request to show how these can be used for analysis."
 # Talk start and end times.
 # End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-09-01"
+date: "2022-09-01T13:30:00Z"
 #event: ""
 author: "Zoë Turner"
 location: "UK, online"
