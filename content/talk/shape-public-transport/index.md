@@ -1,5 +1,5 @@
 ---
-title: "Midland Analyst Network"
+title: "Data Hazards"
 subtitle: "SHAPE Altas - Strategic Health Asset Planning and Evaluation"
 excerpt: "A short talk on how I used the SHAPE Atlas to explore the public transport travel times to Nottinghamshire Healthcare NHS Foundation Trust sites."
 # Talk start and end times.
