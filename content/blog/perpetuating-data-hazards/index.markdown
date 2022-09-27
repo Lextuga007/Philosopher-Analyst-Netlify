@@ -57,3 +57,7 @@ I think we all know the answer to many moral dilemmas - but often in the abstrac
 NHS Digital have a [page](https://digital.nhs.uk/services/clinical-safety/documentation) for Clinical risk that includes an Excel spreadsheet Hazard log.
 
 The [Data Hazards](https://datahazards.com/contents/data-hazards.html) website is a great resource to explore and is open to contribution and resuse.
+
+### Image
+
+Photo by Nathan Cowley: https://www.pexels.com/photo/pink-flowers-photography-1128797/
