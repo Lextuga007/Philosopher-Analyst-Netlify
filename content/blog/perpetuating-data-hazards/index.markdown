@@ -3,13 +3,13 @@ title: "Perpetuating Data Hazards"
 #layout: single
 layout: single-sidebar
 date: '2022-09-27'
-slug: hazards
+slug: data-hazards
 tags:
   - thoughts
   - profession
   - ethics
-subtitle: 'Exploring data hazards and thoughts on the feelings that come from seeing them clearly'
-summary: 'Once you start looking you might realise you've been involved with a data hazard for a very long time.'
+subtitle: 'Exploring data hazards and thoughts on the feelings that come from seeing them clearly.'
+summary: 'Once you start looking you might see data hazard you've accepted for a very long time.'
 lastmod: '2022-09-27'
 featured: yes
 draft: no
