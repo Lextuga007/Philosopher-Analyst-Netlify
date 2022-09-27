@@ -2,7 +2,7 @@
 title: "Perpetuating Data Hazards"
 #layout: single
 layout: single-sidebar
-date: '2022-09-14'
+date: '2022-09-27'
 slug: ethics
 tags:
   - thoughts
@@ -10,7 +10,7 @@ tags:
   - ethics
 subtitle: 'Exploring data hazards and thoughts on the feelings that come from seeing them clearly'
 summary: 'The idea of detailing data hazards is wonderful but once you start looking you might realise you've been involved with a data hazard for a very long time.'
-lastmod: '2022-09-14'
+lastmod: '2022-09-27'
 featured: yes
 draft: no
 ---
