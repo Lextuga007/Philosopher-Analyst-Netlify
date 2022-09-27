@@ -1,6 +1,6 @@
 ---
-title: "AphA branch meeting"
-subtitle: "Reproducible Analytical Pipelines (RAP)"
+title: "Reproducible Analytical Pipelines (RAP)"
+# subtitle: ""
 excerpt: "A short talk on Reproducible Analytical Pipelines"
 # Talk start and end times.
 # End time can optionally be hidden by prefixing the line with `#`.
@@ -26,7 +26,5 @@ links:
 
 ![Reproducible Analytical Pipelines](featured-hex.png)
 
-
-A short introductory presentation initially intended for the AphA North West Branch meeting in September 2022 along with [Data Hazards](https://philosopher-analyst.netlify.app/talk/data-hazards/).
 
 <iframe src="https://cdu-data-science-team.github.io/presentations/2022-09-27%20reproducible-analytical-pipeline/Reproducible-Analytical-Pipeline.html#1" width="600" height="400" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe> <script>fitvids('.shareagain', {players: 'iframe'});</script>
