@@ -72,6 +72,10 @@ Introducing RMarkdown reports
 *Ongoing learning*  
 Suggestions for further R resources  
 
+### My organisation blocks the slides, are they available elsewhere?
+
+Some organisations' security blocks the slides as they are made in {xaringan} so to access the slides they can be downloaded from the [intro_r branch gh-pages](https://github.com/nhs-r-community/intro_r/tree/gh-pages) following the steps like those used for [downloading the course material](https://philosopher-analyst.netlify.app/intro-r/nhsr-intro/prework/#course-materials) where you select the green button and select `Download ZIP` from the menu. Html should open in the browser but just ensure that you don't have Internet Explorer set as your default (as some computers still do in the NHS).
+
 
 ### Where is the code that built this?
 
