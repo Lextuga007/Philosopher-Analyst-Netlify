@@ -19,9 +19,9 @@ I then show the following report that I've built to show more of the text possib
 
 <i class="fab fa-github"></i> GitHub code for [RMarkdown report](https://github.com/nhs-r-community/intro_r/blob/main/10-intro-rmarkdown.Rmd)
 
-https://nhs-r-community.github.io/intro_r/10-intro-rmarkdown.html
+https://intro-r-slides.netlify.app/10-intro-rmarkdown.html
 
-<iframe src="https://nhs-r-community.github.io/intro_r/10-intro-rmarkdown.html" width="600" height="400" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe> <script>fitvids('.shareagain', {players: 'iframe'});</script>
+<iframe src="https://intro-r-slides.netlify.app/10-intro-rmarkdown.html" width="600" height="400" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe> <script>fitvids('.shareagain', {players: 'iframe'});</script>
 
 # A much more fancy and fantastic example from Simon Wellesley-Miller
 
@@ -33,9 +33,14 @@ There are tons of examples of what you can put in an R Markdown from interactive
 
 <i class="fab fa-github"></i> Simon's [repository](https://github.com/SimonW-M/Markdown)</br>
 
-https://lextuga007.github.io/Markdown/R-Training-v5.html
+https://swm-markdown.netlify.app/r-training-v5
 
-<iframe src="https://lextuga007.github.io/Markdown/R-Training-v5.html" width="600" height="400" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe> <script>fitvids('.shareagain', {players: 'iframe'});</script>
+<iframe src="https://swm-markdown.netlify.app/r-training-v5" width="600" height="400" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe> <script>fitvids('.shareagain', {players: 'iframe'});</script>
 
+## GitHub access
+
+Some organisations have very secure VPNs that block GitHub where these resources are hosted. If you attend the workshop you will have the files pre-loaded into the RStudio/Posit Cloud work space. 
+
+If you want to get the code for Simon Welleley-Miller's RMarkdown the button in the top right of the webpage `Code` will output the RMarkdown file which you can then save.
 
 Featured art: https://thegraphicsfairy.com/steampunk-clip-art-hot-air-balloons/
