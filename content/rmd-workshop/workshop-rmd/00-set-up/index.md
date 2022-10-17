@@ -8,8 +8,8 @@ draft: false
 ---
 
 
-https://nhs-r-community.github.io/rmarkdown_intro/slides/00-setting-up.html#1
+https://rmarkdown-intro.netlify.app/00-setting-up.html#1
 
-<iframe src="https://nhs-r-community.github.io/rmarkdown_intro/slides/00-setting-up.html#1" width="600" height="400" loading="lazy" allowfullscreen></iframe> <script>fitvids('.shareagain', {players: 'iframe'});</script>
+<iframe src="https://rmarkdown-intro.netlify.app/00-setting-up.html#1" width="600" height="400" loading="lazy" allowfullscreen></iframe> <script>fitvids('.shareagain', {players: 'iframe'});</script>
 
 

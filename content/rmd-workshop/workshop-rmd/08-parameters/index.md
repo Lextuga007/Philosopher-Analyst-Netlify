@@ -7,7 +7,7 @@ date: 2022-02-10
 draft: false
 ---
 
-https://nhs-r-community.github.io/rmarkdown_intro/slides/08-parameters.html#1
+https://rmarkdown-intro.netlify.app/08-parameters.html#1
 
-<iframe src="https://nhs-r-community.github.io/rmarkdown_intro/slides/08-parameters.html#1" width="600" height="400" loading="lazy" allowfullscreen></iframe> <script>fitvids('.shareagain', {players: 'iframe'});</script>
+<iframe src="rmarkdown-intro.netlify.app/08-parameters.html#1" width="600" height="400" loading="lazy" allowfullscreen></iframe> <script>fitvids('.shareagain', {players: 'iframe'});</script>
 
