@@ -29,7 +29,7 @@ enableEmoji = true
     
 [params]
   orgName = ""
-  orgLocal = "Nottingham, UK"
+  orgLocal = "East Riding of Yorkshire, UK"
   description = "You can take the analyst out of philosophy but not the philosophy out of the analyst"
   favicon = "/img/thinker-by-Gilbert-Bages-from-the-Noun-Project.png"
   logo = "/img/thinker-by-Gilbert-Bages-from-the-Noun-Project.png"
@@ -77,6 +77,36 @@ enableEmoji = true
   buttonHoverBgColor = "blue"
   borderColor = "moon-gray"
   
+  # Social icons may appear on homepage and in site header or footer
+  # Configure show/hide above - add as many as you like below
+  # Icon pack "fab" includes brand icons, see: https://fontawesome.com/icons?d=gallery&s=brands&m=free
+  # Icon pack "fas" includes solid icons, see: https://fontawesome.com/icons?d=gallery&s=solid&m=free
+  # Icon pack "far" includes regular icons, see: https://fontawesome.com/icons?d=gallery&s=regular&m=free
+  [[params.social]]
+      icon      = "twitter" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://twitter.com/Letxuga007"
+  [[params.social]]
+      icon      = "github" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://github.com/Lextuga007"
+  [[params.social]]
+      icon      = "youtube" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://www.youtube.com/@Lextuga007"
+    [[params.social]]
+      icon      = "mastodon" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://fosstodon.org/@Lextuga007"
+  [[params.social]]
+      icon      = "orcid" # icon name without the 'fa-'
+      icon_pack = "ai"
+      url       = "http://orcid.org/0000-0003-1033-9158"
+  [[params.social]]
+      icon      = "linkedin-in" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://www.linkedin.com/in/zoë-turner-9bba4840/"
+
   # show/hide social icons in site header/footer/home page
   socialInHeader = false
   socialInFooter = true
