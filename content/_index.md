@@ -9,6 +9,7 @@ images:
 image_left: true
 text_align_left: false
 show_action_link: true
+show_social_links: true
 action_link: /about
 action_label: "Read More &rarr;"
 action_type: text # text, button

@@ -3,6 +3,7 @@ title: "About"
 description: |
   A blog template for Hugo developed by RStudio & Formspree and available for free.
 show_header: true
+show_social_links: true
 sidebar_left: false
 # Keep this! Do not edit.
 cascade:
