@@ -28,15 +28,20 @@ enableEmoji = true
     style = "github"
     
 [params]
-  orgName = ""
+  orgName = "Lextuga007"
   orgLocal = "East Riding of Yorkshire, UK"
   description = "You can take the analyst out of philosophy but not the philosophy out of the analyst"
   favicon = "/img/thinker-by-Gilbert-Bages-from-the-Noun-Project.png"
   logo = "/img/thinker-by-Gilbert-Bages-from-the-Noun-Project.png"
   # select sections to highlight on about page
   mainSections = ["blog", "project", "nhsr-intro", "rmd-workshop", "talk"]
-  show_social_links = true
+  # show_social_links = true
   navallcaps = true
+  # show/hide social icons in site header/footer/home page
+  # configure social icons and links below in [[params.social]]
+  socialInHeader = false
+  socialInFooter = true
+  # socialInHome = true
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
   sharing_image = "/img/papillons.jpg"
@@ -107,10 +112,6 @@ enableEmoji = true
       icon_pack = "fab"
       url       = "https://www.linkedin.com/in/zoë-turner-9bba4840/"
 
-  # show/hide social icons in site header/footer/home page
-  socialInHeader = false
-  socialInFooter = true
-  socialInHome = true
 
 [taxonomies]
   category = "categories"
