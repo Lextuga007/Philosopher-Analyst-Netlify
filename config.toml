@@ -29,7 +29,7 @@ enableEmoji = true
     
 [params]
   orgName = ""
-  orgLocal = "Nottingham, UK"
+  orgLocal = "East Riding of Yorkshire, UK"
   description = "You can take the analyst out of philosophy but not the philosophy out of the analyst"
   favicon = "/img/thinker-by-Gilbert-Bages-from-the-Noun-Project.png"
   logo = "/img/thinker-by-Gilbert-Bages-from-the-Noun-Project.png"
