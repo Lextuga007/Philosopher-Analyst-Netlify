@@ -1,7 +1,7 @@
 ---
 subtitle: "Philosopher Analyst"
 title: "Zoë Turner"
-description: "This is a blog site that I learned about through the R Studio 2021 Diversity scholarship [workshop](https://iyo-rstudio-global.netlify.app/) with Alison Hill. Image from [Wikimedia](https://commons.wikimedia.org/wiki/File:Carrara_Herbal04.jpg)"
+description: "Image from [Wikimedia](https://commons.wikimedia.org/wiki/File:Carrara_Herbal04.jpg)"
 
 date: 2019-02-18T12:27:33-06:00
 images:
