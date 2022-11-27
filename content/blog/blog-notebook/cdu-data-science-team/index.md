@@ -4,11 +4,11 @@ aliases:
 projects: [cdu]
 title: CDU Data Science Team blog
 authors: [Zoë Turner]
-date: '2021-05-21'
+date: '2022-11-27'
 tags: [blogs]
 categories:
   - blogs
-  - cdu
+  - distill
 summary: CDU Data Science Team blog
 image:
   caption: '[Image by Pexels from Pixabay](https://pixabay.com/users/pexels-2286921/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1869647)'
@@ -17,12 +17,12 @@ output:
   blogdown::html_page:
     toc: true
     number_sections: true
-    toc_depth: 1
+    toc_depth: 3
 ---
 
-The Clinical Development Unit (CDU) Data Science Team write [blogs](https://cdu-data-science-team.github.io/team-blog/) and we publish this through {distill}. 
+I worked with the Clinical Development Unit (CDU) Data Science Team until 2022 writing [blogs](https://cdu-data-science-team.github.io/team-blog/) about our work using {distill}. In working towards openness and transparency we set up a meeting at Nottinghamshire Healthcare NHS Foundation Trust for all staff to come to talk about data, called [Understanding Your Data](https://cdu-data-science-team.github.io/understanding-your-data/). 
 
-As part of our work towards openness and transparency we set up a meeting at Nottinghamshire Healthcare NHS Foundation Trust for all staff to come to talk about data, called [Understanding Your Data](https://cdu-data-science-team.github.io/understanding-your-data/). As part of that I write up some of the discussions at a separate blog site, also created in {distill}.
+I also set up templates, including the [blog template](https://github.com/CDU-data-science-team/distill-blog-template), for the team.
 
 [![blog](nottshc-cdu-data-science-logo.PNG "CDU Data Science Team blog")](https://cdu-data-science-team.github.io/team-blog/)
 
