@@ -20,7 +20,7 @@ output:
     toc_depth: 3
 ---
 
-I worked with the Clinical Development Unit (CDU) Data Science Team until 2022 writing [blogs](https://cdu-data-science-team.github.io/team-blog/) about our work using {distill}. In working towards openness and transparency we set up a meeting at Nottinghamshire Healthcare NHS Foundation Trust for all staff to come to talk about data, called [Understanding Your Data](https://cdu-data-science-team.github.io/understanding-your-data/). 
+I worked with the Clinical Development Unit (CDU) Data Science Team until 2022 writing [blogs](https://cdu-data-science-team.github.io/team-blog/) about our work using the package {distill}. In working towards openness and transparency we set up a meeting at Nottinghamshire Healthcare NHS Foundation Trust for all staff to come to talk about data, called [Understanding Your Data](https://cdu-data-science-team.github.io/understanding-your-data/) also using the pacakge {distill}. 
 
 I also set up templates, including the [blog template](https://github.com/CDU-data-science-team/distill-blog-template), for the team.
 

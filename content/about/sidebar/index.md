@@ -11,6 +11,12 @@ link_list_label: "Interests" # bookmarks, elsewhere, etc.
 link_list:
 - name: NHS-R Community
   url: https://nhsrcommunity.com/
+- name: Midlands Decision Support Network
+  url: https://www.midlandsdecisionsupport.nhs.uk/
+- name: Reproducible Analytical Pipelines
+  url: https://analysisfunction.civilservice.gov.uk/policy-store/reproducible-analytical-pipelines-strategy/
+- name: Goldacre Review
+  url: https://www.gov.uk/government/publications/better-broader-safer-using-health-data-for-research-and-analysis
 ---
 
 ** index doesn't contain a body, just front matter above.
