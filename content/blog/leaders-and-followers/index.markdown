@@ -1,15 +1,16 @@
 ---
-title: "Leaders and followers"
+title: "Data Ethics"
 #layout: single
 layout: single-sidebar
-date: '2022-11-29'
-slug: leaders-teams
+date: '2021-01-15'
+slug: data-ethics
 tags:
   - thoughts
-  - profession
-subtitle: 'You can't have leaders without followers and you can't have both without a team'
-summary: 'There is a lot of talk about the need for leaders but what we might be missing is the value of followers and that can only come from good teams.'
-lastmod: '2022-11-29'
+  - ethics
+  - data
+subtitle: 'Philosophers are experts in their field'
+summary: 'A blog where I reminisce on learning Philosophy in Hull, finding a philosophical journal on why flatulence is funny and how we should expect philosophers to be on ethics committees and involved in data ethics.'
+lastmod: '2021-01-15'
 featured: yes
 draft: no
 ---
@@ -27,3 +28,5 @@ In the context of Orphan Black it seems clear that Rachel is the filtered leader
 I've touched on this analogy only very briefly as leadership isn't really the point of the blog, strangely given the title! The point is the value of the followers and the team. In Orphan Black, the story makes it clear that Rachel has a lot of money and resource at her disposal but she keeps being scuppered in her plans because of Sarah... and her family. This is the crucial part, Sarah bands together with her clone sisters who each have their own strengths and weaknesses - even though they are the same person as they are clones! They work together, care for each other deeply (even after some very nasty fights where one gets shot by the other but survives by sheer luck. I said it was a complicated story!) and they trust each other. Rachel, on the other hand, commands and dictates to the people who work for her to serve her. Their loyalty to her and her cause is shaky and she can't really rely on people in the same way as Sarah can for "her people".
 
 It's not clear always which leader is best or which an organisation or team should go for, but what is clear is that we work best in great teams where we can combine our strengths and our weaknesses get covered. 
+
+Thumbnail photo is of a dry stone wall by Peter H from [Pixabay](https://pixabay.com/photos/wall-stones-masonry-rocks-3630911/)

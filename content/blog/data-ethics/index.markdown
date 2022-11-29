@@ -1,16 +1,15 @@
 ---
-title: "Data Ethics"
+title: "Leaders need followers"
 #layout: single
 layout: single-sidebar
-date: '2021-01-15'
-slug: data-ethics
+date: '2022-11-29'
+slug: leaders-teams
 tags:
   - thoughts
-  - ethics
-  - data
-subtitle: 'Philosophers are experts in their field'
-summary: 'A blog where I reminisce on learning Philosophy in Hull, finding a philosophical journal on why flatulence is funny and how we should expect philosophers to be on ethics committees and involved in data ethics.'
-lastmod: '2021-01-15'
+  - profession
+subtitle: 'Leaders need teams to succeed'
+summary: 'There is a lot of talk about the need for leaders but what we might be missing is the value of followers and that can only come from good teams.'
+lastmod: '2022-11-29'
 featured: yes
 draft: no
 ---
