@@ -7,7 +7,7 @@ slug: leaders-teams
 tags:
   - thoughts
   - profession
-subtitle: 'Leaders need teams to succeed'
+subtitle: 'And need teams to succeed'
 summary: 'There is a lot of talk about the need for leaders but what we might be missing is the value of followers and that can only come from good teams.'
 lastmod: '2022-11-29'
 featured: yes
