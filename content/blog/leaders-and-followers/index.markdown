@@ -3,7 +3,7 @@ title: "Leaders and followers"
 #layout: single
 layout: single-sidebar
 date: '2022-11-29'
-slug: analyst-training
+slug: leaders-teams
 tags:
   - thoughts
   - profession
