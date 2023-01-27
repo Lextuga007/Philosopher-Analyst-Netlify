@@ -7,6 +7,10 @@ date: 2021-02-07
 draft: false
 ---
 
+## Equipment - screens
+
+The course format is a shared screen of live coding with slides from the presenter to demonstrate coding. The opportunity to "code along" is encouraged and that may necessitate 2 screens for comfort of moving between the demonstration and using RStudio on your computer.
+
 ## Set up RStudio Cloud
 
 Sign up for a free RStudio Cloud account at https://rstudio.cloud/ before the workshop. Log in with either an existing Google or GitHub account, or alternatively set up an account directly with RStudio Cloud.
@@ -38,6 +42,18 @@ If that is the case please ensure you have the **latest** [R](https://www.r-proj
 It is important to have the latest R installed as older versions of R have had issues when installing tidyverse packages. Errors say that packages like `broom` or `readr` cannot be installed but even when this has been installed separately there continue to be other errors. Some of the [answers](https://community.rstudio.com/t/having-trouble-installing-and-loading-tidyverse-readr-no-hms-package/11268/7) in this post from RStudio community may help. 
 
 If you require permission for programs to be installed on your computer and have got an older version of R and R Studio, it is worth asking for these to be updated by your IT department as this is always good practice for fixing known issues and bugs. 
+
+**Modern desktop users (NHS England)**
+
+Some organisations are using a modern desktop system, please note that project do not appear to work with Projects/setwd and files like RMarkdown and Quarto don't appear to work, giving the error:
+
+>Warning message:
+>In options(stringsAsFactors = TRUE) :
+>  'options(stringsAsFactors = TRUE)' is deprecated and will be disabled
+>Error in setwd("C:/R/WorkingDir") : cannot change working directory
+>Execution halted
+
+Currently, the way around this is to create the missing folder "C:/R/WorkingDir" (so WorkingDir folder in a folder called R on the C: drive) and whilst the warning message will remain the report scripts `.rmd` and `.qmd` will work. The other recommendation is currently to work through UDAL if there is access.
 
 ### Packages
 
