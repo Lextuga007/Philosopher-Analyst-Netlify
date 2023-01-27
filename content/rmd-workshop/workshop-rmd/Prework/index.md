@@ -35,6 +35,18 @@ usethis::use_course("Lextuga007/rm_01_basics")
 
 There are some issues with the course using the `Knit with parameters...` wizard in the RStudio Cloud as this uses the {shiny} package and may appear as a blank grey box. This may be related to VPN/Networks or some other security features of the organisation's equipment and may not be resolvable for the course but alternative ways of coding the use of parameters is covered in the section on Command Line.
 
+**Modern desktop users (NHS England)**
+
+Some organisations are using a modern desktop system, please note that project do not appear to work with Projects/setwd and files like RMarkdown and Quarto don't appear to work, giving the error:
+
+>Warning message:
+>In options(stringsAsFactors = TRUE) :
+>  'options(stringsAsFactors = TRUE)' is deprecated and will be disabled
+>Error in setwd("C:/R/WorkingDir") : cannot change working directory
+>Execution halted
+
+Currently, the way around this is to create the missing folder "C:/R/WorkingDir" (so WorkingDir folder in a folder called R on the C: drive) and whilst the warning message will remain the report scripts `.rmd` and `.qmd` will work. The other recommendation is currently to work through UDAL if there is access.
+
 ## Internet browser
 
 Please ensure that you use RStudio Cloud in either Chrome or Edge as Internet Explorer (which is sometimes default for NHS organisations) is not supported.
