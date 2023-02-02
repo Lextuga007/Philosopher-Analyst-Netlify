@@ -23,13 +23,20 @@ When you first log in with the link shared in the email it will take you to an R
 
 ![Screenshot of the workspace view in R Studio Cloud](rstudio-cloud.PNG)
 
-The next screen that loads is a welcome page to the workshop (note that this screenshot is for the Shiny course):
+The next screen that loads is a welcome page to the workshop and the final screen will have a project in it that is called Intro_R_RStudio. When this is selected the project gets copied so you will see both the original Intro_R_RStudio and your own new one called Untitled. Although the word `continue` appears next to the original screen you will open your copy.
 
-![Screenshot of the welcome page after Join Space has been selected](welcome-to-workspace.PNG)
+## Taking the scripts to your own workspace
 
-The final screen looks blank as it will say All Projects but nothing will be listed. If you click on the blue New Project this will start up the project that has all the necessary documents and packages all loaded. It can still take a few minutes to load:
+The workspaces will get cleared every few months to keep them tidy and because access is based on a paid subscription. To move the project you've created to your own Workspace (which is available with the account you set up) select the moving trolley icon:
 
-![Screenshot of the Projects page which will be empty](project.PNG)
+![Screenshot of the project name and to the right 4 icons, the bin for delete, moving trolley, the down arrow to download and three dots in a circle](select-icon-to-move.PNG)
+
+Then select `Your Workspace`. If you've been invited to any other workspace you will also see them in the same Move Content screen:
+
+
+![Screenshot of the Move Content wizard with 3 options, Your Workspace and two others from NHS-R](move-content-menu.PNG)
+
+It's possible to download your files instead by using the down arrow by the Project.
 
 ## If you want to use your own laptop/computer
 
