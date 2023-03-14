@@ -11,36 +11,39 @@ draft: false
 
 The course format is a shared screen of live coding with slides from the presenter to demonstrate coding. The opportunity to "code along" is encouraged and that may necessitate 2 screens for comfort of moving between the demonstration and using RStudio on your computer.
 
-## Set up RStudio Cloud
+## Set up Posit Cloud
 
-Sign up for a free RStudio Cloud account at https://rstudio.cloud/ before the workshop. Log in with either an existing Google or GitHub account, or alternatively set up an account directly with RStudio Cloud.
+Sign up for a free Posit Cloud account at https://rstudio.cloud/ before the workshop. Log in with either an existing Google or GitHub account, or alternatively set up an account directly with Posit Cloud.
 
-NHS-R Community will send an email confirmation that will include the specific RStudio Cloud workspace invitation link. 
+NHS-R Community will send an email confirmation that will include the specific Posit Cloud work space invitation link. 
 
-All the files and necessary packages are pre-loaded to the Cloud workspace.
+All the files and necessary packages are pre-loaded to the Cloud work space.
 
-When you first log in with the link shared in the email it will take you to an R Studio Cloud screen that says about Joining a space. Click on the blue button for Join Space:
+When you first log in with the link shared in the email it will take you to an Posit Cloud screen that says about Joining a space. Click on the blue button for Join Space:
 
-![Screenshot of the workspace view in R Studio Cloud](rstudio-cloud.PNG)
+![Screenshot of the work space view in R Studio Cloud](rstudio-cloud.PNG)
 
-The next screen that loads is a welcome page to the workshop and the final screen will have a project in it that is called Intro_R_RStudio. When this is selected the project gets copied so you will see both the original Intro_R_RStudio and your own new one called Untitled. Although the word `continue` appears next to the original screen you will open your copy.
+The next screen that loads is a welcome page to the workshop and the final screen will have a project in it that is called `Intro_R_RStudio`. When this is selected the project gets copied so you will see both the original `Intro_R_RStudio` and your own new one called `Untitled`. Although the word `continue` appears next to the original screen you will open your copy.
+
+## Difference between NHS-R workspaces and your own
+
+You will be restricted to a certain [number of hours a month](https://posit.cloud/plans) on the free account which should be enough for the purpose of a day workshop, however, the NHS-R work space doesn't, currently, have that restriction. That may be changed in time and the work space will get cleared every so often though so if you need more time, get in touch with the nhs.rcommunity@nhs.net team for help.
 
 ## Taking the scripts to your own workspace
 
-The workspaces will get cleared every few months to keep them tidy and because access is based on a paid subscription. To move the project you've created to your own Workspace (which is available with the account you set up) select the moving trolley icon:
+The NHS-R work spaces will get cleared every few months to keep them tidy and because access is based on a paid subscription. To move the project you've created to your own work space (which is available with the account you set up) select the moving trolley icon:
 
 ![Screenshot of the project name and to the right 4 icons, the bin for delete, moving trolley, the down arrow to download and three dots in a circle](select-icon-to-move.PNG)
 
-Then select `Your Workspace`. If you've been invited to any other workspace you will also see them in the same Move Content screen:
+Then select `Your work space`. If you've been invited to any other work space you will also see them in the same Move Content screen:
 
-
-![Screenshot of the Move Content wizard with 3 options, Your Workspace and two others from NHS-R](move-content-menu.PNG)
+![Screenshot of the Move Content wizard with 3 options, Your work space and two others from NHS-R](move-content-menu.PNG)
 
 It's possible to download your files instead by using the down arrow by the Project.
 
 ## If you want to use your own laptop/computer
 
-Some VPNs (Virtual Private Networks) block access to RStudio Cloud or you may wish to use your own computer. VPNS sometimes do work but block parts of the R functionality, this is particularly a problem with Shiny apps (which is not covered in the Introduction to R and R Studio course).
+Some VPNs (Virtual Private Networks) block access to Posit Cloud or you may wish to use your own computer. VPNS sometimes do work but block parts of the R functionality, this is particularly a problem with Shiny apps (which is not covered in the Introduction to R and R Studio course).
 
 If that is the case please ensure you have the **latest** [R](https://www.r-project.org/) and [RStudio](https://rstudio.com/products/rstudio/download/) installed. 
 
@@ -64,28 +67,16 @@ Currently, the way around this is to create the missing folder "C:/R/WorkingDir"
 
 ### Packages
 
-We will be using the packages {tidyverse} and {rmarkdown}, and whilst these packages are all available through CRAN and should be allowed by most organisations, if you have strict restrictions on what can be installed please have these approved or it may be better to use RStudio Cloud for the training.
+We will be using the packages {tidyverse} and {rmarkdown}, and whilst these packages are all available through CRAN and should be allowed by most organisations, if you have strict restrictions on what can be installed please have these approved or it may be better to use Posit Cloud for the training.
 
 `install.packages("tidyverse")` << This will be covered in the course itself
 `install.packages("rmarkdown")`
-
-##### October 2021
-
-With the addition of slides and exercises for working with SQL databases, the following packages will also be required:
-
-`install.packages(c("DBI", "dbplyr"))`
-
-
-It's advisable to restart your R session before using any newly installed packages. Use the R Studio menu item *Session > Restart R* or the associated keyboard shortcut:
-
-+ <kbd>Ctrl + Shift + F10</kbd> (Windows and Linux) or
-+ <kbd>Command + Shift + F10</kbd> (Mac OS). 
 
 ## Course materials
 
 #### Downloading files
 
-If you plan to use the RStudio Cloud you can still download the following files, but it's not necessary for the workshop. 
+If you plan to use the Posit Cloud you can still download the following files, but it's not necessary for the workshop. 
 
 If, however, you want to use your own computer go to https://github.com/nhs-r-community/intro_r_data and click on the green <kdb>Code</kbd> button
 
@@ -108,7 +99,7 @@ If you want to have the slides on your computer, they can be downloaded from the
 
 #### Confirmation email
 
-The NHS-R Community confirmation email will include: the link to the workshop, the RStudio Cloud workspace url and you should also receive a calendar invitation. If you are not sure that you can access zoom from your work laptop, please join a test zoom meeting coordinated by NHS-R Community.
+The NHS-R Community confirmation email will include: the link to the workshop, the Posit Cloud work space url and you should also receive a calendar invitation. If you are not sure that you can access zoom from your work laptop, please join a test zoom meeting coordinated by NHS-R Community.
 
 #### Any problems
 
