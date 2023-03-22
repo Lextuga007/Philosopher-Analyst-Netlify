@@ -27,6 +27,6 @@ links:
 ![Data Hazards](featured.png)
 
 
-A presentation initially intended for the Midlands Analyst Network but also used for the AphA North West Branch meeting in September 2022.
+A presentation initially intended for the [Midlands Analyst Network](https://www.midlandsdecisionsupport.nhs.uk/communities-of-practice/midlands-analyst-network/) but also used for the [AphA North West Branch](https://www.aphanalysts.org/) meeting in September 2022.
 
 <iframe src="https://cdu-data-science-team.github.io/presentations/2022-09-08%20Data-Hazards/2022-09-08-Data-Hazards.html#1" width="600" height="400" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe> <script>fitvids('.shareagain', {players: 'iframe'});</script>
