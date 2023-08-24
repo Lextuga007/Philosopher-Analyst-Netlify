@@ -93,3 +93,7 @@ It's possible that a question like this may come up though in the interview so i
 ## Word count
 
 There is a word limit on the supporting documentation section but you are not scored on how close you are to that limit.
+
+### Image
+
+Image by <a href="https://pixabay.com/users/congerdesign-509903/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=514998">congerdesign</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=514998">Pixabay</a>
