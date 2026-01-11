@@ -1,16 +1,10 @@
 social:
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/Letxuga007
 - icon: github
   icon_pack: fab
-  link: https://github.com/Letxuga007
+  link: https://github.com/Lextuga007
 - icon: linkedin
   icon_pack: fab
   link: https://uk.linkedin.com/in/zo%C3%AB-turner-9bba4840
-- icon: mastodon
-  icon_pack: fab
-  link: https://fosstodon.org/@Letxuga007
 - icon: orcid
   icon_pack: ai
   url: http://orcid.org/0000-0002-8082-1890

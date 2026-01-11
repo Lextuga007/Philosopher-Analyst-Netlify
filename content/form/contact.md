@@ -1,7 +1,7 @@
 ---
 title: Contact
 name: Contact Us Form
-description: "**Contact Me!** using this form."
+description: "Contact me via this form."
 date: 2019-02-25T13:38:41-06:00
 draft: false
 url: contact
