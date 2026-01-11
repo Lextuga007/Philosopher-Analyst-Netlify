@@ -6,8 +6,12 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
-I'm a Senior Data Scientist at the [Midlands Decision Support Network](https://www.midlandsdecisionsupport.nhs.uk/about/) which is part of the NHS Midlands & Lancashire Commissioning Strategy Unit. 
+I have been an analyst in the NHS for over a decade and a Senior Fellow of [NHS-R Community](https://nhsrcommunity.com/) providing training materials, 
+open source books and, in its penultimate year before merging, facilitating the 
+running of the community including organising webinars/workshops from 
+volunteers and its successful in-person annual conference in Birmingham.
 
-I'm a proud Senior Fellow of the [NHS-R Community](https://nhsrcommunity.com/).
-
-I have a particular interest in Ethics having studied Philosophy and some of my thoughts on this, along with technical blogs, can be found on my {distill} blog [site](https://lextuga007.github.io/PhilosopherAnalyst/).
+I have a particular interest in Ethics having studied Philosophy in a time before
+disserations even needed to be typed and some of my 
+thoughts on ethics, along with technical blogs, can be found on my distill
+blog [site](https://lextuga007.github.io/PhilosopherAnalyst/).
